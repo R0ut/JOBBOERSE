@@ -1,0 +1,1 @@
+(?<=id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.berufsbezeichnungdesstellenangebots_0" href=")(.*)(?=" class="internerLink)
