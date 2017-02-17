@@ -12,26 +12,49 @@ namespace JOBBOERSE
     class RegEx
     {
         private string text,patern,found;
+        private TextBox txtContact;
         
-
+        public RegEx(TextBox txt)
+        {
+            this.txtContact = txt;
+        }
         public string Found { get; private set; }
 
 
-        // uruchomienie metody dla głównej a potem dla pojedynczych ofert. pattern 1 uruchamia pattern dla głównej(pobranie stronek) a 2 uruchamia pattern dla ofert(wyciaga adresy)
-        public void LoadFile(string file,int patternOption) 
+        // uruchomienie metody dla głównej a potem dla pojedynczych ofert. pattern 1 uruchamia pattern dla głównej(pobranie stronek) a 2 uruchamia pattern dla ofert(wyciaga adresy). i to sa nastepne linki od 0 do 9
+        public void LoadFile(string file,int patternOption,int j) 
         {
-            if (patternOption == 1) patern = Properties.Resources.pattern1;
-            else patern = Properties.Resources.pattern2;
                 try
                 {
                 string projectPath = (Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName) + "/Resources/" + file + ".txt"; // path of project
                 text = System.IO.File.ReadAllText(projectPath);
 
-                
-                match();
-                Found = found;
-                found = "";
-                if (patternOption == 2) saveInformation(Found);
+                if (patternOption == 1)
+                {
+                    patern = ReplacePattern(Properties.Resources.pattern1 + j + Properties.Resources.pattern1_1);
+                    match();
+                    Found = Replace(found);
+                    found = "";
+                }
+                else
+                {
+                    for (int i = 0; i < 6; i++)
+                    {
+                        if (i == 0) patern = Properties.Resources.pattern2;
+                        else if (i == 1) patern = Properties.Resources.pattern3;
+                        else if (i == 2) patern = Properties.Resources.pattern4;
+                        else if (i == 3) patern = Properties.Resources.pattern5;
+                        else if (i == 4) patern = Properties.Resources.pattern6;
+                        else if (i == 5) patern = Properties.Resources.pattern7;
+
+                        match();
+                        Found = Replace(found);
+                        showContact(Found+ "\r\n");
+                        found = "";
+                    }
+
+                }
+               
             }
             catch (Exception aa)
             {
@@ -66,10 +89,34 @@ namespace JOBBOERSE
 
         }
 
-        private void saveInformation(string html)
+        private string Replace(string str)
         {
-            string projectPath = (Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName) + "/Resources/htmlOffer.txt"; 
-            System.IO.File.WriteAllText(projectPath, html);
+            string input = str.Trim();
+            string tmp = input.Replace("&szlig;", "ß"); //B
+            tmp = tmp.Replace("&Auml;", "Ä");
+            tmp = tmp.Replace("&auml;", "ä");
+            tmp = tmp.Replace("&Ouml;", "Ö");
+            tmp = tmp.Replace("&ouml;", "ö");
+            tmp = tmp.Replace("&Uuml;", "Ü");
+            tmp = tmp.Replace("&uuml;", "ü");
+            tmp = tmp.Replace("</", "");
+            
+
+
+            string output = tmp.Replace("&amp;", "&");
+            return output;
         }
+
+        private string ReplacePattern(string str) // tutaj poprawic bo jest na tasme ;D
+        {
+            string input = str.Trim();
+            input.Replace("/", "");
+            return input;
+        }
+
+        private void showContact(string text)
+        {
+            txtContact.Text += text;
+        } // metoda do ustawienia txtBox
     }
 }

@@ -145,7 +145,62 @@ namespace JOBBOERSE.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to 
+        ///
+        ///
+        ///
+        ///
+        ///
+        ///
+        ///
+        ///
+        ///
+        ///
+        ///
+        ///
+        ///	
+        ///&lt;!DOCTYPE html&gt;
+        ///&lt;!-- Version: JB P63.0.2.501  --&gt;
+        ///
+        ///
+        ///
+        ///&lt;html lang=&quot;de&quot;&gt;
+        ///&lt;head&gt;
+        ///&lt;meta charset=&quot;UTF-8&quot;&gt;
+        ///&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=Edge&quot; /&gt;
+        ///
+        ///
+        ///
+        ///
+        ///
+        ///
+        ///
+        ///
+        ///	
+        ///		
+        ///			
+        ///			
+        ///
+        ///			
+        ///				
+        ///				
+        ///					
+        ///					
+        ///						
+        ///							
+        ///							
+        ///								&lt;title&gt;JOBBĂ–RSE - Stellenangebot - Physiotherapeut/in&lt;/title&gt;
+        ///							
+        ///						
+        ///					
+        ///				
+        ///			
+        ///		
+        ///	
+        ///	
+        ///
+        ///&lt;meta name=&quot;description&quot;
+        ///	content=&quot;Bei Deutschlands grĂ¶Ăźtem Online-Jobportal finden Sie schnell und einfach die passende Stelle oder den passenden Bewerber. Ve [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string htmlOffer {
             get {
@@ -154,7 +209,7 @@ namespace JOBBOERSE.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to (?&lt;=id=&quot;zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.berufsbezeichnungdesstellenangebots_0&quot; href=&quot;)(.*)(?=&quot; class=&quot;internerLink).
+        ///   Looks up a localized string similar to (?&lt;=zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.berufsbezeichnungdesstellenangebots_.
         /// </summary>
         internal static string pattern1 {
             get {
@@ -163,11 +218,65 @@ namespace JOBBOERSE.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to .
+        ///   Looks up a localized string similar to &quot; href=&quot;)(.*)(?=&quot; class=&quot;internerLink).
+        /// </summary>
+        internal static string pattern1_1 {
+            get {
+                return ResourceManager.GetString("pattern1_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to (?&lt;=ruckfragenundbewerbungenan_-2147483648&quot;&gt;)(.*)(?=span&gt;).
         /// </summary>
         internal static string pattern2 {
             get {
                 return ResourceManager.GetString("pattern2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to (?&lt;=vorname_-2147483648&quot;&gt;)(.*)(?=span&gt;).
+        /// </summary>
+        internal static string pattern3 {
+            get {
+                return ResourceManager.GetString("pattern3", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to (?&lt;=nachname_-2147483648&quot;&gt;)(.*)(?=span&gt;).
+        /// </summary>
+        internal static string pattern4 {
+            get {
+                return ResourceManager.GetString("pattern4", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to (?&lt;=Strasse_-2147483648&quot;&gt;)(.*)(?=span&gt;).
+        /// </summary>
+        internal static string pattern5 {
+            get {
+                return ResourceManager.GetString("pattern5", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to (?&lt;=Plz_-2147483648&quot;&gt;)(.*)(?=span&gt;).
+        /// </summary>
+        internal static string pattern6 {
+            get {
+                return ResourceManager.GetString("pattern6", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to (?&lt;=Ort_-2147483648&quot;&gt;)(.*)(?=span&gt;).
+        /// </summary>
+        internal static string pattern7 {
+            get {
+                return ResourceManager.GetString("pattern7", resourceCulture);
             }
         }
         

@@ -105,7 +105,22 @@
     <None Include="Resources\pattern2.txt" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="html.html.txt" />
+    <None Include="Resources\pattern3.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pattern4.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pattern5.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pattern6.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pattern7.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pattern1_1.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

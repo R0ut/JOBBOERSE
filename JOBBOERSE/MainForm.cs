@@ -15,13 +15,18 @@ namespace JOBBOERSE
     {
         ConnectionCheck connectionCheck = new ConnectionCheck();
         GetHtml side = new GetHtml();
-        RegEx expresion = new RegEx();
+        RegEx expresion;
 
-        private string firstSide= "http://jobboerse.arbeitsagentur.de/vamJB/stellenangeboteFinden.html?execution=e2s1&d_6827794_p=1";
+        
         
         public MainForm()
         {
             InitializeComponent();
+            expresion = new RegEx(txtContact);
+            if (connectionCheck.Internet() == true) picInternetStatus.Image = Properties.Resources.good;
+            else picInternetStatus.Image = Properties.Resources.bad;
+
+
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -29,21 +34,27 @@ namespace JOBBOERSE
 
             if (connectionCheck.Internet() == true)
             {
-                picInternetStatus.Image = Properties.Resources.good;
-                // side.GetSide(firstSide,"html"); //pobranie głównej strony
-                side.GetMainSide(webDownload); //pobranie głównej strony to dobre 
-
-
-
                 
-                //Zrobic zeby stronka sie załadowała a potem pobrac kod
-                expresion.LoadFile("html", 1);// to raz
-                side.GetSide("http://jobboerse.arbeitsagentur.de" + expresion.Found,"htmlOffer");
-                expresion.LoadFile("htmlOffer", 2); // to 10 razy
-                                                                                    //porobic wyrazenia regularne 
+                side.GetMainSide(webDownload); //pobranie głównej strony to dobre i zapisuje ja w res/html.txt tutaj
+
+                for (int i = 0; i < 10; i++)
+                {
+                    expresion.LoadFile("html", 1, i);// to raz
+
+                    side.GetSide("http://jobboerse.arbeitsagentur.de" + expresion.Found, "htmlOffer"); // pobrany kod strony już z ofertą 
+                    expresion.LoadFile("htmlOffer", 2, i);
+                }
+                 
+              
             }
             else picInternetStatus.Image = Properties.Resources.bad;
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            expresion.LoadFile("html", 1,1);
+            webDownload.Url = new System.Uri("http://jobboerse.arbeitsagentur.de" + expresion.Found, System.UriKind.Absolute);
         }
     }
 }

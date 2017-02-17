@@ -1,1 +1,1 @@
-(?<=class="klappbareUeberschrift">)(.*)(?= </h4>)
+(?<=ruckfragenundbewerbungenan_-2147483648">)(.*)(?=span>)
