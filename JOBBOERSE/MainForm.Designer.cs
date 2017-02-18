@@ -33,7 +33,9 @@
             this.webDownload = new System.Windows.Forms.WebBrowser();
             this.btnViewWeb = new System.Windows.Forms.Button();
             this.txtContact = new System.Windows.Forms.TextBox();
+            this.addresBookDataSet = new JOBBOERSE.AddresBookDataSet();
             ((System.ComponentModel.ISupportInitialize)(this.picInternetStatus)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.addresBookDataSet)).BeginInit();
             this.SuspendLayout();
             // 
             // btnGetContact
@@ -84,11 +86,16 @@
             this.txtContact.Size = new System.Drawing.Size(224, 147);
             this.txtContact.TabIndex = 5;
             // 
+            // addresBookDataSet
+            // 
+            this.addresBookDataSet.DataSetName = "AddresBookDataSet";
+            this.addresBookDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(771, 536);
+            this.ClientSize = new System.Drawing.Size(772, 536);
             this.Controls.Add(this.txtContact);
             this.Controls.Add(this.btnViewWeb);
             this.Controls.Add(this.webDownload);
@@ -97,6 +104,7 @@
             this.Name = "MainForm";
             this.Text = "JOBBOERSE";
             ((System.ComponentModel.ISupportInitialize)(this.picInternetStatus)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.addresBookDataSet)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -109,6 +117,7 @@
         private System.Windows.Forms.WebBrowser webDownload;
         private System.Windows.Forms.Button btnViewWeb;
         private System.Windows.Forms.TextBox txtContact;
+        private AddresBookDataSet addresBookDataSet;
     }
 }
 

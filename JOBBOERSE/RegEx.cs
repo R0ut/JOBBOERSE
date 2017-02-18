@@ -11,12 +11,16 @@ namespace JOBBOERSE
 {
     class RegEx
     {
-        private string text,patern,found;
+        SQL sql;
+        private string text,patern,found,sideLink;
+        private string compName, name, surtName, street, zipCode, city;
         private TextBox txtContact;
         
-        public RegEx(TextBox txt)
+        public RegEx(TextBox txt, string sideLink)
         {
             this.txtContact = txt;
+            this.sideLink = sideLink;
+            sql = new SQL();
         }
         public string Found { get; private set; }
 
@@ -24,6 +28,7 @@ namespace JOBBOERSE
         // uruchomienie metody dla głównej a potem dla pojedynczych ofert. pattern 1 uruchamia pattern dla głównej(pobranie stronek) a 2 uruchamia pattern dla ofert(wyciaga adresy). i to sa nastepne linki od 0 do 9
         public void LoadFile(string file,int patternOption,int j) 
         {
+            
                 try
                 {
                 string projectPath = (Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName) + "/Resources/" + file + ".txt"; // path of project
@@ -31,12 +36,17 @@ namespace JOBBOERSE
 
                 if (patternOption == 1)
                 {
-                    patern = ReplacePattern(Properties.Resources.pattern1 + j + Properties.Resources.pattern1_1);
-                    match();
-                    Found = Replace(found);
-                    found = "";
+                   
+                        patern = ReplacePattern(Properties.Resources.pattern1 + j + Properties.Resources.pattern1_1);
+                        match();
+                    if (found != null)
+                    {
+                        Found = Replace(found);
+                        found = "";
+                    }
+                  
                 }
-                else
+                else if(patternOption == 2)
                 {
                     for (int i = 0; i < 6; i++)
                     {
@@ -49,10 +59,29 @@ namespace JOBBOERSE
 
                         match();
                         Found = Replace(found);
-                        showContact(Found+ "\r\n");
+                        if (i == 0) compName = Found;
+                        else if (i == 1) name = Found;
+                        else if (i == 2) surtName = Found;
+                        else if (i == 3) street = Found;
+                        else if (i == 4) zipCode = Found;
+                        else if (i == 5) city = Found;
+                        //showContact(Found + "\r\n");
                         found = "";
                     }
 
+                    //showContact("\r\n-------------\r\n");
+                    sql.AddData(compName, name, surtName, street, zipCode, city);
+                    
+                   
+
+                }
+                else if(patternOption == 3)
+                {
+                    patern = Properties.Resources.patternSideLink1;
+                    text = sideLink;
+                    match();
+                    Found = Replace(found);
+                    found = "";
                 }
                
             }
@@ -77,6 +106,7 @@ namespace JOBBOERSE
             if (match.Success)//znalezienie nastepne
             {
                 //found += match.Value;
+                
             }
 
             // Get third match.

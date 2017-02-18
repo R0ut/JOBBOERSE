@@ -189,7 +189,7 @@ namespace JOBBOERSE.Properties {
         ///						
         ///							
         ///							
-        ///								&lt;title&gt;JOBBĂ–RSE - Stellenangebot - Physiotherapeut/in&lt;/title&gt;
+        ///								&lt;title&gt;JOBBĂ–RSE - Stellenangebot - Physiotherapeut/in auf Festeinstellung (Physiotherapeut/in)&lt;/title&gt;
         ///							
         ///						
         ///					
@@ -200,7 +200,7 @@ namespace JOBBOERSE.Properties {
         ///	
         ///
         ///&lt;meta name=&quot;description&quot;
-        ///	content=&quot;Bei Deutschlands grĂ¶Ăźtem Online-Jobportal finden Sie schnell und einfach die passende Stelle oder den passenden Bewerber. Ve [rest of string was truncated]&quot;;.
+        ///	content=&quot;Bei Deutschlands grĂ¶Ăźtem Online-Jobportal finden Sie schnell und einfach die passen [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string htmlOffer {
             get {
@@ -277,6 +277,15 @@ namespace JOBBOERSE.Properties {
         internal static string pattern7 {
             get {
                 return ResourceManager.GetString("pattern7", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to (?&lt;=n=)(.*)(?=&amp;).
+        /// </summary>
+        internal static string patternSideLink1 {
+            get {
+                return ResourceManager.GetString("patternSideLink1", resourceCulture);
             }
         }
         
