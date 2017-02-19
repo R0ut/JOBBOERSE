@@ -119,7 +119,7 @@
 <body>
 
 	
-	<!--##46-->
+	<!--##18-->
 	
 		
 		
@@ -252,10 +252,10 @@
 		<div id="informationBanner" class="cf">
 			
 			
-				<span class="hervorgehoben">2.777.814</span><span>Bewerberprofile</span>
-				<span class="hervorgehoben">1.289.924</span><span>Stellen</span>
-				<span class="hervorgehoben">306.837</span><span>Ausbildungsstellen</span>
-				<span class="anmerkung">Stand:18.02.2017</span>
+				<span class="hervorgehoben">2.777.650</span><span>Bewerberprofile</span>
+				<span class="hervorgehoben">1.286.088</span><span>Stellen</span>
+				<span class="hervorgehoben">306.824</span><span>Ausbildungsstellen</span>
+				<span class="anmerkung">Stand:19.02.2017</span>
 			
 		</div>
 	</div>            
@@ -519,7 +519,7 @@
 
 				
         
-<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.matchingquote_0" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_matchingquote&amp;encs=WZYgIhb7t7LoIcX9%2FMpTcAgSMmanjxO7%2BcOM2R6SOzDjl2Fu41ZEjAjQM3057qWPaWznLBo05mo0wtkZQNyvgg%3D%3D" class="relevanz" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots"><img class="relevanz" width="51" height="19" src="/vamJB/images/icons/Matchingscore_5v5_weiss.gif" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots" alt="Maximale &Uuml;bereinstimmung"/></a>
+<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.matchingquote_0" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_matchingquote&amp;encs=f20jKiCeFEk6nktLLsU7Cyp%2FN59CZ5XY2ca5jZd7lQ9y1XCl77D8349LNF48kSoHzVGIZQFLKsw0fAPtTi3OIQ%3D%3D" class="relevanz" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots"><img class="relevanz" width="51" height="19" src="/vamJB/images/icons/Matchingscore_5v5_weiss.gif" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots" alt="Maximale &Uuml;bereinstimmung"/></a>
 	   
 	
 				</div>
@@ -533,7 +533,7 @@
 
 				
 		
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.berufsbezeichnungdesstellenangebots_0" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_detailView&amp;bencs=5Ly15S9RH43cvSOMW%2B7OzFikQDzvc3Wun%2FlDJDYsopa7WTwu97aebPXUUAYjrv8e&amp;bencs=UNKpadZRIMPnFwGHLUIVSiob3POon9fuG46Bu2NiM91zMIUJ8sWs2Rssy2GV3%2FSZ4y1scaPdCeNggrWSkYooWA%3D%3D&amp;bencs=DX3xovpG7mmhMQDfeAVoEDaKbODVNUvONgLx5RkM5Cqov8o1dEXVqqYkjUMlHUAMpoLLqpGxEH1g83Qld4qdwXBVhgYuaK09T0dgIr1rVWwjtI%2BEqb476OAAw%2F%2Fscu2PmpiNnjcFE%2FsG61FAFt%2BJ1Q%3D%3D&amp;bencs=aaKeRZJLqIa96nD3iPy667annKKVIhWaUEDaZyvLzzrdsUZegRNY5BAs8qlBo5Mb" class="internerLink primaerElement" title="Zu den Details des Stellenangebots"><span>Physiotherapeuten (f. verschied. Einrichtungen Schweiz) ges. (Physiotherapeut/in)</span></a>
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.berufsbezeichnungdesstellenangebots_0" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_detailView&amp;bencs=Py9rQ%2BQkXMp7okQcmN75rBPKLT%2B6cPDK%2Fz6315vlShGe%2F0t6dBtAYm0%2Fwspxybfo&amp;bencs=q0AhvtRw2adrZ0uGJS0HS9jclfQr8BEpBBHBQw1uicd36Fgw4DKUvSCig4PCJy6IP9ZZQLSr66g3s299ogUQPw%3D%3D&amp;bencs=whdEgfZJ5F9TNI6tu%2Boe%2FyqNlKJPwCvHTHEc6Uhz8HcSMOLCgYwFHYW51sIx2clULgoL90xm4AZsVOcY%2B8Caww%3D%3D&amp;bencs=ZC0fAu3Ia3aiyR6%2Fi68DTeYAC3eGcuOyxbN7kVo6BUrICRvVIzcCkbYjc8HzdvnN" class="internerLink primaerElement" title="Zu den Details des Stellenangebots"><span>Physiotherapeut m/w (Physiotherapeut/in)</span></a>
 
 	
 				</div>
@@ -545,7 +545,7 @@
 			
 				<div>
 
-                <span id="datumdererstmaligenveroffentlichungdesstellenangebots_0">18.02.2017</span>
+                <span id="datumdererstmaligenveroffentlichungdesstellenangebots_0">19.02.2017</span>
 	
 				</div>
 			
@@ -562,7 +562,7 @@
 
 
 <div class="cf">
-		<img id="logo_0" src="anzeigen?S1eZtlFP=1000000017606668222&amp;7Gdls4IvN=eRjI6fLS&amp;ladeAGLogoKleinKey=ladeAGLogoKleinValue" alt="Firmenlogo des Arbeitgebers" title="Firmenlogo des Arbeitgebers" class="arbeitgeberlogoErgebnisliste"/>
+		<img id="logo_0" src="anzeigen?S1eZtlFP=1000000006768452167&amp;7Gdls4IvN=eRjI6fLS&amp;ladeAGLogoKleinKey=ladeAGLogoKleinValue" alt="Firmenlogo des Arbeitgebers" title="Firmenlogo des Arbeitgebers" class="arbeitgeberlogoErgebnisliste"/>
 
 </div>
 
@@ -576,7 +576,7 @@
 
 				
 			
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.arbeitgeberdesstellenangebots_0" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_arbeitgeber&amp;bencs=Nvz1v0Ukrr8LwLjML5B3QbONqGA%2FGYwjSFCSt7yOK2IAaKfvc2Wd%2BNqpfiGIZv2zbdRDduq0P23Wrq4yjnHQVA%3D%3D" class="internerLink sekundaerElement" title="Zu weiteren Details zum Arbeitgeber"><span>CB Vermittlung &amp; Beratung</span></a>
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.arbeitgeberdesstellenangebots_0" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_arbeitgeber&amp;bencs=myrZqVYH6uShjgfQbrWDaLWRIsH2U97EuVWNxWMiaqd6ivs1lyoYODBJ1fj2Xh2dt0Uk6RKKukRmcweawNJf4g%3D%3D" class="internerLink sekundaerElement" title="Zu weiteren Details zum Arbeitgeber"><span>Job- &amp; Bildungsberatungs GmbH</span></a>
 				
 	
 				</div>
@@ -591,7 +591,1321 @@
 
 	
 
-<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.weitereangebote_0" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_weitereAngebote&amp;encs=gDs42XGsiI2q6IObmXmcXg%2BRKgcahE7W1PNwv2B98Dv5T5PiUlvmd1A69e7CphPNXWNHllQI89RJGK6imn0AWw%3D%3D" title="Weitere passende und &auml;hnliche Stellenangebote des Arbeitgebers aufrufen"><img class="iconWeitereAngebote" width="9" height="10" src="/vamJB/images/icons/icon_weitereangebote_weiss.png" title="Weitere passende und &auml;hnliche Stellenangebote des Arbeitgebers aufrufen" alt="Weitere Angebote"/><span class="weitereAngeboteLinktext">Weitere Angebote</span></a>
+<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.weitereangebote_0" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_weitereAngebote&amp;encs=dAx6d6Zo%2F0342%2BydShy6Wh6nSm3dQd3EP8k6mchc1Um33TCJ4l6zw2TAREOtiUrHbrVl%2BW%2FmK%2BC0WLWf2FXDPQ%3D%3D" title="Weitere passende und &auml;hnliche Stellenangebote des Arbeitgebers aufrufen"><img class="iconWeitereAngebote" width="9" height="10" src="/vamJB/images/icons/icon_weitereangebote_weiss.png" title="Weitere passende und &auml;hnliche Stellenangebote des Arbeitgebers aufrufen" alt="Weitere Angebote"/><span class="weitereAngeboteLinktext">Weitere Angebote</span></a>
+
+
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+	
+		
+		
+			10405
+			
+			
+				Berlin
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+	
+
+
+
+
+<span id="entfernungzumarbeitsortinkm_0"></span>
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+	
+
+
+	sofort
+
+
+	
+				</div>
+			
+
+			</td>
+<td>
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.merken_0" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_merken&amp;encs=bzWf45H3Jxu%2BZNnS%2FeNWusubJutzTox8ZOfg6kEAgLURRJnXXsXG7CHN%2FFGFSqWZFvENJ5kygrLdldrTLFOwAA%3D%3D" class=" sekundaerElement" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus"><img class="iconMerken" width="19" height="19" src="/vamJB/images/icons/icon_merken_weiss.gif" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus" alt="Vormerken-Icon"/></a>
+
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.kartezumstellenangebot_0" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_karteZumStellenangebot&amp;encs=wg%2F0hXaAQByAd2pZI48b41zQhl8liSujUKz5eB2rg5r9Rkazy02iXTA8QoNQiqlBAXwUkcKb00fURNcINUFxlA%3D%3D&amp;encs=A5SY8S99j830Ag5g7z7pcjSz9nZ8WYOFNhIsoXLF2gJqfxItdmI26QZR9NDerBL1wn8hunMXIqEhwwG1svp3Ow%3D%3D" class=" sekundaerElement" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an"><img class="iconKarteZumStellenangebot" width="19" height="19" src="/vamJB/images/icons/icon_karteStellenangebot.png" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an" alt="Karte zum Stellenangebot anzeigen"/></a>
+
+	
+
+
+
+			</td></tr>
+<tr class="gerade">
+<td>
+	
+			
+				<div>
+
+				
+        
+<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.matchingquote_1" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_matchingquote&amp;encs=ISWEEYUiLZkrRLcBwrFYYXcW1t87UkcCVwIAEj%2FoO2IvH1Huu4a8lAsf%2FTXZ%2BQlb2dEkonkYSZqFd9N4mgJxPg%3D%3D" class="relevanz" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots"><img class="relevanz" width="51" height="19" src="/vamJB/images/icons/Matchingscore_5v5_grau.gif" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots" alt="Maximale &Uuml;bereinstimmung"/></a>
+	   
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+				
+		
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.berufsbezeichnungdesstellenangebots_1" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_detailView&amp;bencs=K64aSvEIFGyMOTA64O6qBSaNUqg86Lra2%2BB%2Byj2Bdo%2FTtHGo9cZ%2B5IiDPomsDBGH&amp;bencs=Z76b8cxqvxROeVUhyDDbwXigMq9nQoC3gDicWaHpqVy7PsNz0sO5sbRrzW3ClW2qQZhX6yRxPyFMLcc2wNMCrQ%3D%3D&amp;bencs=8hUccl9HYLEiym8ctk3JrDfmx%2F2qdlOg6YHpT5b59f4X7xgJRem2Aekv8M96CS1nu6iBPLxiyi92i8c6RHm4K41b5MtHdATB3M5QnvRv31ko%2BPLTKV%2BIgmtIROX8GkLU&amp;bencs=pTjrbYlLRDBROfLTHFDDtMmbkUhn8k85d2H5279hqbgVTMBAZdfTmGNgIwuLHV7N" class="internerLink primaerElement" title="Zu den Details des Stellenangebots"><span>Physiotherapeut/in mit Schwerpunkt Manuelle Therapie (Physiotherapeut/in)</span></a>
+
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+                <span id="datumdererstmaligenveroffentlichungdesstellenangebots_1">19.02.2017</span>
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+
+	
+			
+				<div>
+
+				
+			
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.arbeitgeberdesstellenangebots_1" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_arbeitgeber&amp;bencs=%2B8qg5xveyGjKzsvz%2BXZh5OnHW3KbPOpo6Cg%2FwmygOv6IyB4deAwrrz1weG5W9ahgXMd2XtkxwbV7F2LiTinftw%3D%3D" class="internerLink sekundaerElement" title="Zu weiteren Details zum Arbeitgeber"><span>Privatpraxis f&uuml;r Osteopathie</span></a>
+				
+	
+				</div>
+			
+
+	
+			
+
+	
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+	
+		
+		
+			21079
+			
+			
+				Hamburg
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+	
+
+
+
+
+<span id="entfernungzumarbeitsortinkm_1"></span>
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+	
+
+
+	sofort
+
+
+	
+				</div>
+			
+
+			</td>
+<td>
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.merken_1" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_merken&amp;encs=M7FKvQ%2Fa8yFUOr8SXwoJm7q3Ez2LdaTPuFIozUUEq9AKzXU2ZcIbcpLhNkrwc3vV9CE0EZwKOKTH6tEsGYJ0dw%3D%3D" class=" sekundaerElement" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus"><img class="iconMerken" width="19" height="19" src="/vamJB/images/icons/icon_merken_grau.gif" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus" alt="Vormerken-Icon"/></a>
+
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.kartezumstellenangebot_1" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_karteZumStellenangebot&amp;encs=NkRd6AlRFtKzzsp%2FniPzfmtSa%2BUoVexrySGuNkfDGlw%2FvWVWmB1FP3jGggkT9Pve7G8TUMrcHWNPR5WqIF5ANQ%3D%3D&amp;encs=ehveCRm%2Bs%2FzhMYy%2B2O%2FrQgY0ZJGlQepDLxpzq%2F0zLkbBLGBYgB1jWw4GLubCqatKtrC6NOdPt4RmVDOyZI%2F5wA%3D%3D" class=" sekundaerElement" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an"><img class="iconKarteZumStellenangebot" width="19" height="19" src="/vamJB/images/icons/icon_karteStellenangebot.png" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an" alt="Karte zum Stellenangebot anzeigen"/></a>
+
+	
+
+
+
+			</td></tr>
+<tr class="ungerade">
+<td>
+	
+			
+				<div>
+
+				
+        
+<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.matchingquote_2" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_matchingquote&amp;encs=mE8Pyj963yBSmQL94HPwp5fdUYyQKqRSvLrT6gFUai9caFncerc9oYjVZcRps3W3hWHn91P%2BzSS%2F9E9fl1FRDA%3D%3D" class="relevanz" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots"><img class="relevanz" width="51" height="19" src="/vamJB/images/icons/Matchingscore_5v5_weiss.gif" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots" alt="Maximale &Uuml;bereinstimmung"/></a>
+	   
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+				
+		
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.berufsbezeichnungdesstellenangebots_2" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_detailView&amp;bencs=8iltnEo6X1RNWwePJKhNvMpESfOADTaFMlBy8a22%2F4ef%2FKtmGD3CqssE6XoKWxMp&amp;bencs=Kf6cAIJfhGTOzhJ9r5nR4h%2BzVhdE9kCGY4r9%2B7guT%2Flvm8br6G5nJZUplWbUPr0q5K8G%2BSioEmWbZuICcgWY4Q%3D%3D&amp;bencs=wjVRpuGj8bDuPaX930WnyPs%2BzHN2blYsjbum0GNKCjS%2BTZLgdjvx%2FYE%2Fp9msUAmiDPJyTl9JQyXRr4cE9Y%2Fb7P0CiQ%2FMPTlOU1laDSyIJIs%3D&amp;bencs=%2FsNqQej9GAhZx2sSXdTt2%2FDpyOeg4BHvFgXjNoVOLLmNnp6E663lur1bMgkCuLlh" class="internerLink primaerElement" title="Zu den Details des Stellenangebots"><span>Physiotherapeut/in in Teilzeit (Physiotherapeut/in)</span></a>
+
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+                <span id="datumdererstmaligenveroffentlichungdesstellenangebots_2">19.02.2017</span>
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+
+	
+			
+				<div>
+
+				
+			
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.arbeitgeberdesstellenangebots_2" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_arbeitgeber&amp;bencs=yGc0G%2FFgaGNkSKYRFfHGB6DuJWiLqVesks2wl5Srlvq1wVJri9FPVRUaj6%2FcW%2BYKuEXg27T4O7tVn9kb0XUtHQ%3D%3D" class="internerLink sekundaerElement" title="Zu weiteren Details zum Arbeitgeber"><span>Physiotherapiepraxis Dell Missier</span></a>
+				
+	
+				</div>
+			
+
+	
+			
+
+	
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+	
+		
+		
+			24872
+			
+			
+				Groß Rheide
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+	
+
+
+
+
+<span id="entfernungzumarbeitsortinkm_2"></span>
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+	
+
+
+	sofort
+
+
+	
+				</div>
+			
+
+			</td>
+<td>
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.merken_2" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_merken&amp;encs=bK2966Z%2BWoTJ7WGlJy1rFcQE6LlIKkq0GnYawhgjI2PRZY1Ydfq78lpYs49Lj6ul076j6JDw%2Bfm2sYjZdcZSEQ%3D%3D" class=" sekundaerElement" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus"><img class="iconMerken" width="19" height="19" src="/vamJB/images/icons/icon_merken_weiss.gif" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus" alt="Vormerken-Icon"/></a>
+
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.kartezumstellenangebot_2" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_karteZumStellenangebot&amp;encs=2jd%2BsJ%2FeIVg6h%2BrIhvZ%2FKXEbGdyV%2FFEoQ755wuUun5SDvobHsce%2FH53zf7S9hA7ZmHah2OhTEcc17y3zgUEfMA%3D%3D&amp;encs=bbY4olCMx7lq74yccjJZbelbOTDPyl2ql5yVfuqXtE0ixgdfesar4D9C23FuKbMW5ygtkZM22zX%2BxYIV1D2RDw%3D%3D" class=" sekundaerElement" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an"><img class="iconKarteZumStellenangebot" width="19" height="19" src="/vamJB/images/icons/icon_karteStellenangebot.png" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an" alt="Karte zum Stellenangebot anzeigen"/></a>
+
+	
+
+
+
+			</td></tr>
+<tr class="gerade">
+<td>
+	
+			
+				<div>
+
+				
+        
+<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.matchingquote_3" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_matchingquote&amp;encs=KdJWDi3F%2FbSmG8BlgdZAo%2FGqdy%2FXbAgZ%2B9zUkiDLpgHv%2Fz1Eo0E5QFzaRDUQvjWpyK6cv8EaPgK1LwQGYE2SIg%3D%3D" class="relevanz" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots"><img class="relevanz" width="51" height="19" src="/vamJB/images/icons/Matchingscore_5v5_grau.gif" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots" alt="Maximale &Uuml;bereinstimmung"/></a>
+	   
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+				
+		
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.berufsbezeichnungdesstellenangebots_3" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_detailView&amp;bencs=Af%2BqWXq1AACtjGGXxNAqYtQq%2FIamiGeFPGQlS6o0jT44v24OKB3aZdrhs4ROPu7J&amp;bencs=IyyaZJW1BoD6arIfdVFi6OjPatxgv8hnLZ1bROA1eK4Xa%2BJAIH6E0ICj9CUNSvYq2kJENLVgARexIphcNXGDFA%3D%3D&amp;bencs=Z5DSwkBPRAO8wHvXY9Bq7BXXw682bNfEyuqGod7i1DZ7bRlan4%2BPH5eDuj2DxhmIoJL0U93%2FQrUBWvn%2FhiMreQ%3D%3D&amp;bencs=qTlZpcFAgOSFrLjGw8CICu1Pupf54KUDuKVU3eqG4MYpiyRd3cNWfYt3tXlvm5p6" class="internerLink primaerElement" title="Zu den Details des Stellenangebots"><span>Physiotherapeut/In (Physiotherapeut/in)</span></a>
+
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+                <span id="datumdererstmaligenveroffentlichungdesstellenangebots_3">19.02.2017</span>
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+
+	
+			
+				<div>
+
+				
+			
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.arbeitgeberdesstellenangebots_3" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_arbeitgeber&amp;bencs=n9h5OCn7bC7TnwPcz3neByQphe6PXY%2Frk5P%2BRxaznM0IlE1iZ3JO4N9MW50jJoFPjj%2B%2FpXJdvcgAMN2yyu4VnQ%3D%3D" class="internerLink sekundaerElement" title="Zu weiteren Details zum Arbeitgeber"><span>Physio Esslingen</span></a>
+				
+	
+				</div>
+			
+
+	
+			
+
+	
+			
+				<div>
+
+	
+
+<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.weitereangebote_3" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_weitereAngebote&amp;encs=uEUIt179Aa2kawCQxKVJeEgpMncW7cg4seAHgDWJrH7Uenxuh5OnmZmlB0o6r%2BxHEqzVCZzwfHc7dBa3Dv1JYQ%3D%3D" title="Weitere passende und &auml;hnliche Stellenangebote des Arbeitgebers aufrufen"><img class="iconWeitereAngebote" width="9" height="10" src="/vamJB/images/icons/icon_weitereangebote_grau.png" title="Weitere passende und &auml;hnliche Stellenangebote des Arbeitgebers aufrufen" alt="Weitere Angebote"/><span class="weitereAngeboteLinktext">Weitere Angebote</span></a>
+
+
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+	
+		
+		
+			73614
+			
+			
+				Schorndorf, Württemberg
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+	
+
+
+
+
+<span id="entfernungzumarbeitsortinkm_3"></span>
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+	
+
+
+	sofort
+
+
+	
+				</div>
+			
+
+			</td>
+<td>
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.merken_3" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_merken&amp;encs=0XQMCKDBB%2BY4rP8%2FgosFc2qFeAu5jNCmp4Ucu2P6R5YVrUq7JF8pkLbeypTis4QERBdRW7EnGr7YnX9%2BFvfxIg%3D%3D" class=" sekundaerElement" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus"><img class="iconMerken" width="19" height="19" src="/vamJB/images/icons/icon_merken_grau.gif" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus" alt="Vormerken-Icon"/></a>
+
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.kartezumstellenangebot_3" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_karteZumStellenangebot&amp;encs=wjo3ZNNDQKwK%2BgHau94JNNEro1U8xa3jSXlgNokpy06LUSRBufJIKVWor5k%2FBkGuR4AjDwwpgCSmn05p5ZEc8w%3D%3D&amp;encs=vaKTNWDSkaA8Tu7KoOsh4Qjhgtf9Z4mdgj47%2BuQjpSNRbAUll380k9PtKk6mZKjT%2FIBL7Fz9dUJzDFI2RN2Xxg%3D%3D" class=" sekundaerElement" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an"><img class="iconKarteZumStellenangebot" width="19" height="19" src="/vamJB/images/icons/icon_karteStellenangebot.png" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an" alt="Karte zum Stellenangebot anzeigen"/></a>
+
+	
+
+
+
+			</td></tr>
+<tr class="ungerade">
+<td>
+	
+			
+				<div>
+
+				
+        
+<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.matchingquote_4" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_matchingquote&amp;encs=BGj16CPkisLqEp96Z5qO5pyCl4sd2dRbFQxCJJI6FKFMemWosTOeLTjwUIjQMEPXguc8gUTCYsXB6KWK9nVVEw%3D%3D" class="relevanz" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots"><img class="relevanz" width="51" height="19" src="/vamJB/images/icons/Matchingscore_5v5_weiss.gif" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots" alt="Maximale &Uuml;bereinstimmung"/></a>
+	   
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+				
+		
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.berufsbezeichnungdesstellenangebots_4" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_detailView&amp;bencs=CzimzV4YXo6ELIY7us6KJnEQirWtIl51Sjzg%2FSlrLE5ysv4w6sbkVVSvKHQnu8E6&amp;bencs=s1dzUlmtUHKmigI%2F69%2Bf5k0Gf31UFtQpLjuGIVENd2MezPFs7NUibQ%2Fih4hLRuKlrVfB4mbKp3Kb8s%2BxnYluTw%3D%3D&amp;bencs=NpMPUnz12dciLG1WWAv5UgSciHn95tsFbbg7B2AKXkJX1jtgGSIAHzF1I09KQWgUd7D16Ey0LbOMnifwJPLK1H5RaTmLOXNVxBPYIgqQIiiqeUTLsnxYdSfP%2Fb0PXFEO&amp;bencs=Jy9S%2FaGlKbl1ntKlsYo723jXMi50VdhrrtCbO4sEjxn1wz7ddK8dNcyabivxeNNy" class="internerLink primaerElement" title="Zu den Details des Stellenangebots"><span>Physiotherapeut/in in Berlin-Wei&szlig;ensee gesucht (Physiotherapeut/in)</span></a>
+
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+                <span id="datumdererstmaligenveroffentlichungdesstellenangebots_4">19.02.2017</span>
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+
+	
+			
+				<div>
+
+				
+			
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.arbeitgeberdesstellenangebots_4" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_arbeitgeber&amp;bencs=yFralCq8GgRHYxl2B0MkzLv0zXxpXfyKkgflYUOzh20GPHIhvV65ygk3GlpobovOC5Cl6AjaOAukDkKWESwP0A%3D%3D" class="internerLink sekundaerElement" title="Zu weiteren Details zum Arbeitgeber"><span>Praxis f&uuml;r Physiotherapie Fiedler/Baerens</span></a>
+				
+	
+				</div>
+			
+
+	
+			
+
+	
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+	
+		
+		
+			13086
+			
+			
+				Berlin
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+	
+
+
+
+
+<span id="entfernungzumarbeitsortinkm_4"></span>
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+	
+
+
+	01.03.2017
+
+
+	
+				</div>
+			
+
+			</td>
+<td>
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.merken_4" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_merken&amp;encs=xIMPCVWFveZmZO7dseD3hIOz6erWgIiLjtruABTUXIKUieEzXpmIddLwCYC3UQowxzIhx1tRdkjcOukYEvLvmA%3D%3D" class=" sekundaerElement" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus"><img class="iconMerken" width="19" height="19" src="/vamJB/images/icons/icon_merken_weiss.gif" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus" alt="Vormerken-Icon"/></a>
+
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.kartezumstellenangebot_4" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_karteZumStellenangebot&amp;encs=OzMVuygwl4Ux4sc1Pe3g4SjqKoDMVau6dZ7Q6QhUOmOemVIUrY9GnflwhDnIUM3I3a4H1i%2F6sdAJ17wxeNs5HA%3D%3D&amp;encs=gmmLomXpvFqSU04%2FGxOmcSkHk2aq7mCEtr%2BXWRXybCFnPaZKwezUDL45tkRGhFnDPQJX1O4dEqSNc34vjjLPmw%3D%3D" class=" sekundaerElement" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an"><img class="iconKarteZumStellenangebot" width="19" height="19" src="/vamJB/images/icons/icon_karteStellenangebot.png" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an" alt="Karte zum Stellenangebot anzeigen"/></a>
+
+	
+
+
+
+			</td></tr>
+<tr class="gerade">
+<td>
+	
+			
+				<div>
+
+				
+        
+<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.matchingquote_5" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_matchingquote&amp;encs=nS03T2%2FIF5hLQmkHCu%2BuFbxOlA1wLY7Isfstqrg57n%2B76epc9rZPVN4WXaXJUKvobtPRcLvvdsmY%2FOIOg2V5Mw%3D%3D" class="relevanz" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots"><img class="relevanz" width="51" height="19" src="/vamJB/images/icons/Matchingscore_5v5_grau.gif" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots" alt="Maximale &Uuml;bereinstimmung"/></a>
+	   
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+				
+		
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.berufsbezeichnungdesstellenangebots_5" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_detailView&amp;bencs=RDu%2BWmmewSyHdhXg8tVMN1RLXOLmkYD84gqNwSPTfQaO%2BzcaTGGODE%2BgC6IgM2ia&amp;bencs=p1YNNHQi0YGKrr1xZoaA5xoiRsh%2FIgiJdjvYxDQ9PTr34rXSh%2BsLW27HOqI2ELoMtZZNkjWCgocoEYG%2BH%2BQMVQ%3D%3D&amp;bencs=UTX0mKTaJjc78aGPv6oCItBVyiE2WKqrBwJjCD4Fv5VRu%2FC4UpIThu4Zr6GkxIyXFBofKT6fPOgiMvFDNtzuwA%3D%3D&amp;bencs=6Xk72IXrTUSuhvHRao2EqX%2FtexHVfwoXyfyWAtnozev5lmXtkbb2PfRpie6r%2BQi1" class="internerLink primaerElement" title="Zu den Details des Stellenangebots"><span>Physiotherapeut/in (Physiotherapeut/in)</span></a>
+
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+                <span id="datumdererstmaligenveroffentlichungdesstellenangebots_5">19.02.2017</span>
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+
+	
+			
+				<div>
+
+				
+			
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.arbeitgeberdesstellenangebots_5" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_arbeitgeber&amp;bencs=RMe%2FuDrZFcL62ZdbrJsGkvXqzpwRS60GQF9k0b5mvpmkElpRJVgIeADTHZfUk7JTg15n%2Bgz%2Fik5SJ9Ko9dYkgg%3D%3D" class="internerLink sekundaerElement" title="Zu weiteren Details zum Arbeitgeber"><span>Egloff - Zentrum f&uuml;r Physio- und Sportphysiotherapie</span></a>
+				
+	
+				</div>
+			
+
+	
+			
+
+	
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+	
+		
+		
+			71032
+			
+			
+				Böblingen
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+	
+
+
+
+
+<span id="entfernungzumarbeitsortinkm_5"></span>
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+	
+
+
+	sofort
+
+
+	
+				</div>
+			
+
+			</td>
+<td>
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.merken_5" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_merken&amp;encs=7h8mHBhTKtCOK3Xcxl8PPvYXOYoznLsG%2FHJyRDx5VZnOaRoGyr4XRWC2FZtPtUu27%2BwMLsiG2liR7dXNgPPs4A%3D%3D" class=" sekundaerElement" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus"><img class="iconMerken" width="19" height="19" src="/vamJB/images/icons/icon_merken_grau.gif" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus" alt="Vormerken-Icon"/></a>
+
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.kartezumstellenangebot_5" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_karteZumStellenangebot&amp;encs=yL32B9YnobMKulubfNJiUvuo5of%2F%2BR%2FeTKen%2BbeWit8lQ90H%2BKlgLq87chgrDLkHiaPpbMwC99JHwmdJ1LiUHg%3D%3D&amp;encs=uvjcttbcnEI7V%2FvTvI2wL1fN2l1dS8VwjHNC6YNqO%2FmYtj%2FjTHs8ZXf38lpihilVSJe1Yy48OX0zjd5gBVt%2ByA%3D%3D" class=" sekundaerElement" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an"><img class="iconKarteZumStellenangebot" width="19" height="19" src="/vamJB/images/icons/icon_karteStellenangebot.png" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an" alt="Karte zum Stellenangebot anzeigen"/></a>
+
+	
+
+
+
+			</td></tr>
+<tr class="ungerade">
+<td>
+	
+			
+				<div>
+
+				
+        
+<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.matchingquote_6" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_matchingquote&amp;encs=VOUKu2cSb2teeqHAoHoW%2F8zV6zG%2FvYDexuJceJnzJz4tGR5GOnlAXPqnckw%2FA0tlogrDTgbdWv8lS6jz21pEnw%3D%3D" class="relevanz" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots"><img class="relevanz" width="51" height="19" src="/vamJB/images/icons/Matchingscore_5v5_weiss.gif" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots" alt="Maximale &Uuml;bereinstimmung"/></a>
+	   
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+				
+		
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.berufsbezeichnungdesstellenangebots_6" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_detailView&amp;bencs=%2Be5f3%2FNRpmXg8g4NuYxqVkVqzjOC4FkoBzY2e0gn0xO3wR8Zy0eUcppecbHg6bgs&amp;bencs=TjKDiqS3WDFR4aOoV0nix36xJibQm9eJ62KUt9QVHDZXes0MPsKuS3jiIorUn8wEgH9z7KvzKTYtwPCrlngv3Q%3D%3D&amp;bencs=ZNlHRKVc1BL8o0toteiyo8DEK9AdoP79nWEBbfW89olgxnr2yufv0HtJqTq%2BNp2oqkHN53%2BVoGuMWb6loepMXKNe4EdFH%2B%2BFT%2BKjASJvU88%3D&amp;bencs=14ACImczjDAe5QQxHMpw4TwpDvKfoEUC8r4GYHUR%2F%2BJd1s3wSd6OVnq4jap7mmxf" class="internerLink primaerElement" title="Zu den Details des Stellenangebots"><span>Neue Wege gemeinsam gehen (Physiotherapeut/in)</span></a>
+
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+                <span id="datumdererstmaligenveroffentlichungdesstellenangebots_6">19.02.2017</span>
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+	
+
+
+
+
+<div class="cf">
+		<img id="logo_6" src="anzeigen?S1eZtlFP=1000000034031716918&amp;7Gdls4IvN=eRjI6fLS&amp;ladeAGLogoKleinKey=ladeAGLogoKleinValue" alt="Firmenlogo des Arbeitgebers" title="Firmenlogo des Arbeitgebers" class="arbeitgeberlogoErgebnisliste"/>
+
+</div>
+
+	
+				</div>
+			
+
+	
+			
+				<div>
+
+				
+			
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.arbeitgeberdesstellenangebots_6" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_arbeitgeber&amp;bencs=%2FcHt%2Bhe8hN%2BGsfYABQ2khNkTsEK%2FN42W9elmYy%2B0h4QMh61%2FLqt7b5HDx%2BYgBcoBBrQVCw9IoVl49c1PB9heuA%3D%3D" class="internerLink sekundaerElement" title="Zu weiteren Details zum Arbeitgeber"><span>Orthop&auml;dische Praxis</span></a>
+				
+	
+				</div>
+			
+
+	
+			
+
+	
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+	
+		
+		
+			71034
+			
+			
+				Böblingen
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+	
+
+
+
+
+<span id="entfernungzumarbeitsortinkm_6"></span>
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+	
+
+
+	03.04.2017
+
+
+	
+				</div>
+			
+
+			</td>
+<td>
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.merken_6" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_merken&amp;encs=rwb8ek1x5pvVSupvMW5Txwp8TeSAc6SdNrocreYY8s80X%2BCKJNRyYxpG6V4I1gFfAOwAHmFJwVYFDD5LZzMZEA%3D%3D" class=" sekundaerElement" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus"><img class="iconMerken" width="19" height="19" src="/vamJB/images/icons/icon_merken_weiss.gif" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus" alt="Vormerken-Icon"/></a>
+
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.kartezumstellenangebot_6" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_karteZumStellenangebot&amp;encs=%2BuryRhKBc5dZtwhzxi4lBFvQClYZiMFVuWOmI5Mqzgmcnh1MLZraCMB61QujMYDCp788uQH4FMHKQTw7wtBmhg%3D%3D&amp;encs=hX%2F3qZPP7pIeAlRNsElSX4ZO5DtyaSVyQl1IJSREUW0JfZXotlHwhEpj%2BKfSWcPB335%2BKzIBACNQ8MiodFzTkw%3D%3D" class=" sekundaerElement" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an"><img class="iconKarteZumStellenangebot" width="19" height="19" src="/vamJB/images/icons/icon_karteStellenangebot.png" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an" alt="Karte zum Stellenangebot anzeigen"/></a>
+
+	
+
+
+
+			</td></tr>
+<tr class="gerade">
+<td>
+	
+			
+				<div>
+
+				
+        
+<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.matchingquote_7" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_matchingquote&amp;encs=YVCNtB68aixnlRBSPKbsUuFDQ5dy5%2BDC36vLJo9TeasstJLg1Y0l%2Ff4jNFKyDSvgy16gvg1N0TMMLrbrBPMyyQ%3D%3D" class="relevanz" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots"><img class="relevanz" width="51" height="19" src="/vamJB/images/icons/Matchingscore_5v5_grau.gif" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots" alt="Maximale &Uuml;bereinstimmung"/></a>
+	   
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+				
+		
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.berufsbezeichnungdesstellenangebots_7" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_detailView&amp;bencs=EdvIr1IHj8uhWWc6WuCgu4RgKlbXKeKHex36%2F3QZ%2BRzAcrvaXqR6tdjjb44z%2Fby8&amp;bencs=EejuIobVdCLbVfpCi8iYEjCy%2BRW558Gn8HTemtWnhszoKOVVjuLiWt2gK6IgTDeMko318nOq1ZS64rWQVwJ3Mw%3D%3D&amp;bencs=R4JWmpZb49z%2BKR%2BVvlrcihsh38%2B6RhZAZbFUH85kh8wXHggUKnKUaWMzQQgCqaGrsBcyRKjRZqTIuJCPu8KLITz3%2Bq84QpEUSx01lMsnMks%3D&amp;bencs=5F4BWU9SNx7vGOryrkUz%2B3gB84aGt1Scbt1yADfWKD6NUbmkWloQwW%2B6sqTakp3w" class="internerLink primaerElement" title="Zu den Details des Stellenangebots"><span>Physiotherapie gl&uuml;cksgriff (Physiotherapeut/in)</span></a>
+
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+                <span id="datumdererstmaligenveroffentlichungdesstellenangebots_7">19.02.2017</span>
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+
+	
+			
+				<div>
+
+				
+			
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.arbeitgeberdesstellenangebots_7" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_arbeitgeber&amp;bencs=bk0q%2BOa%2Fgyb%2F4mToZGnTOS%2BiPfutVMpD1Cj9LjpoEFUWCcpnnU9IQvkM%2FzEf9Rruorkjug%2FBK4y65K4e15Dz5A%3D%3D" class="internerLink sekundaerElement" title="Zu weiteren Details zum Arbeitgeber"><span>Physiotherapie gl&uuml;cksgriff</span></a>
+				
+	
+				</div>
+			
+
+	
+			
+
+	
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+	
+		
+		
+			69259
+			
+			
+				Wilhelmsfeld
+			
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+	
+	
+	
+
+
+
+
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+	
+
+
+
+
+<span id="entfernungzumarbeitsortinkm_7"></span>
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+	
+
+
+	03.04.2017
+
+
+	
+				</div>
+			
+
+			</td>
+<td>
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.merken_7" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_merken&amp;encs=MF%2Bf%2BndMYo9bgTWZnrwBE%2BWVP5yDOyp3qvCbYgDRdKyBXv7PuLDxO6fG%2BDVYfqnN9Mbk3Qbb6Pf3DYzW%2FmyXSg%3D%3D" class=" sekundaerElement" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus"><img class="iconMerken" width="19" height="19" src="/vamJB/images/icons/icon_merken_grau.gif" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus" alt="Vormerken-Icon"/></a>
+
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.kartezumstellenangebot_7" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_karteZumStellenangebot&amp;encs=nuvGmCYrqxc%2F8XmbXe5t67ywhKYQmw%2BUtiIv7Bd1bOKs4PQDVzLoI6GhA5jwWuyEakJ8%2FaaqFCbRSTMwXkx%2FMA%3D%3D&amp;encs=qF7eEmAosi8qWs1D8dqmjUK7DpgQyyEdcgvYLZsEJCJ9IpO2GsUPUQrOobZiim8E1Wwh7Sl7o9ujoGC0o6lJBA%3D%3D" class=" sekundaerElement" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an"><img class="iconKarteZumStellenangebot" width="19" height="19" src="/vamJB/images/icons/icon_karteStellenangebot.png" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an" alt="Karte zum Stellenangebot anzeigen"/></a>
+
+	
+
+
+
+			</td></tr>
+<tr class="ungerade">
+<td>
+	
+			
+				<div>
+
+				
+        
+<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.matchingquote_8" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_matchingquote&amp;encs=kHPe5YfB3i30RNkHj7P7K%2BI8EW2DcHfoPrXJdO4e%2FrOlp4EQK9drnTxXIkWbGfTpWeOX%2FZc%2Fmlvo18owpOw1Dw%3D%3D" class="relevanz" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots"><img class="relevanz" width="51" height="19" src="/vamJB/images/icons/Matchingscore_5v5_weiss.gif" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots" alt="Maximale &Uuml;bereinstimmung"/></a>
+	   
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+				
+		
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.berufsbezeichnungdesstellenangebots_8" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_detailView&amp;bencs=LMCt5%2Fp4MnUG0sVZtwHBV6CkrxDiEXHc4JXfwgynotRBgtiRsyxjn6wwbz6anNiJ&amp;bencs=AtK%2FOYGZX7vNHx87qyd9zPMZyA3ewKjd5wA4j1IkebM77G4AN%2FQQZctN8RoSfvdIN7TAXVA2CrLPlTOHoULlwg%3D%3D&amp;bencs=K2d9eQ5gVB9ZHWqLJ77BDQuaoxbgvbeMJu241INvnfb1y8SgKjPr9gPsooaJ95MegfSuC3jZo%2F8X8l947SaQkNMIR3V%2B8mg6NgUK2oCpnLQY3UyXfAlPuDcr5ivWJCHpxSsBKfeIxlG3HCrTZVCPBA%3D%3D&amp;bencs=m0HIDTIi0DDqn6l7gTniDDt1xbhuxY9L%2F1zEWmgI117cEm5H1YOtQG53om3PcFn%2B" class="internerLink primaerElement" title="Zu den Details des Stellenangebots"><span>Physiotherapeuten (f. verschied. Einrichtungen Schweiz) ges. (Physiotherapeut/in)</span></a>
+
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+                <span id="datumdererstmaligenveroffentlichungdesstellenangebots_8">18.02.2017</span>
+	
+				</div>
+			
+
+			</td>
+<td>
+	
+			
+				<div>
+
+	
+
+
+
+
+<div class="cf">
+		<img id="logo_8" src="anzeigen?S1eZtlFP=1000000017606668222&amp;7Gdls4IvN=eRjI6fLS&amp;ladeAGLogoKleinKey=ladeAGLogoKleinValue" alt="Firmenlogo des Arbeitgebers" title="Firmenlogo des Arbeitgebers" class="arbeitgeberlogoErgebnisliste"/>
+
+</div>
+
+	
+				</div>
+			
+
+	
+			
+				<div>
+
+				
+			
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.arbeitgeberdesstellenangebots_8" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_arbeitgeber&amp;bencs=knm0uvBPzjZe%2Fo2UAifqB8kN4CzDtjw%2FDcxYGj1KAeUcjT8SzJTHVwz2fwuR3EljE8%2FakQ7H6X%2Fk6gS%2BDFSlbQ%3D%3D" class="internerLink sekundaerElement" title="Zu weiteren Details zum Arbeitgeber"><span>CB Vermittlung &amp; Beratung</span></a>
+				
+	
+				</div>
+			
+
+	
+			
+
+	
+			
+				<div>
+
+	
+
+<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.weitereangebote_8" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_weitereAngebote&amp;encs=%2FWJ9PTU4Ee9U18dt4Z9Mmig9poBSUndWeYLc9Ke4w49fWRjf7SAvL4cEUFAhYYz16k%2FmIix7qZfusdi1yVji1g%3D%3D" title="Weitere passende und &auml;hnliche Stellenangebote des Arbeitgebers aufrufen"><img class="iconWeitereAngebote" width="9" height="10" src="/vamJB/images/icons/icon_weitereangebote_weiss.png" title="Weitere passende und &auml;hnliche Stellenangebote des Arbeitgebers aufrufen" alt="Weitere Angebote"/><span class="weitereAngeboteLinktext">Weitere Angebote</span></a>
 
 
 	
@@ -658,7 +1972,7 @@
 
 
 
-<span id="entfernungzumarbeitsortinkm_0"></span>
+<span id="entfernungzumarbeitsortinkm_8"></span>
 	
 				</div>
 			
@@ -681,9 +1995,9 @@
 
 			</td>
 <td>
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.merken_0" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_merken&amp;encs=ZbOETF48XqRvktGd1oC1U8ywI7f3PZrnq60t7OBuLlNs4BYoeCJDaLPNM9cBHKxymCZS6BAlMZjokSi3rShGNg%3D%3D" class=" sekundaerElement" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus"><img class="iconMerken" width="19" height="19" src="/vamJB/images/icons/icon_merken_weiss.gif" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus" alt="Vormerken-Icon"/></a>
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.merken_8" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_merken&amp;encs=TcJ5FXaNmqC2DCh9j2FAD%2F%2BPnt%2Fv9oc0cz7soKf3DDAEGOKPD4LeiksBeiV8r%2FMetWRFcO1pYprYULJlWsljFQ%3D%3D" class=" sekundaerElement" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus"><img class="iconMerken" width="19" height="19" src="/vamJB/images/icons/icon_merken_weiss.gif" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus" alt="Vormerken-Icon"/></a>
 
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.kartezumstellenangebot_0" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_karteZumStellenangebot&amp;encs=m40maVqO9m2Kx3CepT%2FAZkn7X6xg%2F1Ks3D0lOHx7jJz8H13JmLFpdlGqoLlqvt%2BP%2BU8aIZZR2YHRIcvDfbkUTw%3D%3D&amp;encs=Xh5vZ95tzwRwCQkdBmkmyRAgiGxbPXPt%2FnfYhaXq7aKSUO%2BfWcEgyTRQ5d5PcqEcY23EKYbAxr0CkFvTuIvDnA%3D%3D" class=" sekundaerElement" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an"><img class="iconKarteZumStellenangebot" width="19" height="19" src="/vamJB/images/icons/icon_karteStellenangebot.png" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an" alt="Karte zum Stellenangebot anzeigen"/></a>
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.kartezumstellenangebot_8" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_karteZumStellenangebot&amp;encs=EAZ0tt2oYOIgFX9gOQId78OBkAsuMAJqjxDIIcOTeA%2BOG3I%2Bl5mm6A6UW02xgclQ0bZJKA4dc2M7v2j%2BOvZl4w%3D%3D&amp;encs=p%2FruTE%2FHy1BamEUv0T5%2FpXQvOaXdS3ANAzP3zsdn3NqI%2FvEWWF%2F2Aanx%2FMaP%2F9QkNIRYwkKw4JAYo5FZv2l05g%3D%3D" class=" sekundaerElement" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an"><img class="iconKarteZumStellenangebot" width="19" height="19" src="/vamJB/images/icons/icon_karteStellenangebot.png" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an" alt="Karte zum Stellenangebot anzeigen"/></a>
 
 	
 
@@ -698,7 +2012,7 @@
 
 				
         
-<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.matchingquote_1" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_matchingquote&amp;encs=gJTUupsAoUC%2BOiLrE92p48ioqg8CXCShhC9C5be%2BsZ97wU2tR0nXvRzPShIurPXhntBnGYQE32%2FmKgC0XV30Gg%3D%3D" class="relevanz" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots"><img class="relevanz" width="51" height="19" src="/vamJB/images/icons/Matchingscore_5v5_grau.gif" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots" alt="Maximale &Uuml;bereinstimmung"/></a>
+<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.matchingquote_9" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_matchingquote&amp;encs=R2998NtQLmoPzf%2B%2BV%2Ba1PvW3TJYN0xRLnwuW1JzIVseoq5cWqpRNTWdofceId87wTbBTAEiY7prIbKCkKG2MwQ%3D%3D" class="relevanz" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots"><img class="relevanz" width="51" height="19" src="/vamJB/images/icons/Matchingscore_5v5_grau.gif" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots" alt="Maximale &Uuml;bereinstimmung"/></a>
 	   
 	
 				</div>
@@ -712,7 +2026,7 @@
 
 				
 		
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.berufsbezeichnungdesstellenangebots_1" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_detailView&amp;bencs=5fDMLutIrOt8SxmSLVm6MX%2Fg%2BIU2VKkuam57agHVEjcYvbE5KJJ5QJQYluxVc0ta&amp;bencs=clyfvyYdz2gJnfawWatABQfguoUJOin94qVbW8EMw4eInMS4OLmqc71Vyh7fIng0YcL2xEGU4tG2nERELojN6w%3D%3D&amp;bencs=nPbAzCdMXr%2FpzC3HGgXjWp7yMnjiCKMp0%2FnyWvFPSiaOIDTqZxenqmOvDwjgGR7o3y1kaDJ6QT%2FCatbirbNeVRKWZyOvsydlfyLpiKbQdlg%3D&amp;bencs=ON0mZwCKym2RFXl8N1CbXss3uaCGypS%2Fi93hphdXWTfQNGVfpY7PADR%2BhOy%2FNbGR" class="internerLink primaerElement" title="Zu den Details des Stellenangebots"><span>Physiotherapeut/in gesucht (Physiotherapeut/in)</span></a>
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.berufsbezeichnungdesstellenangebots_9" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_detailView&amp;bencs=zq%2FRrr2aLaOrPA2YQmZNy1Tfa%2BIFJPMNzoZwpEYCElTQtnuYZd8wFRAU89u%2FXHVN&amp;bencs=G37nF5yAPzs2nWE8oWvHKcvsIdphK5%2B9RlZwXrQdb7SE%2BXT7IQKOhpSN8q2YSJNPpPkKGRY9g37UvqDDxPja9w%3D%3D&amp;bencs=bi6SSS1lzm%2FkH1m22xE%2Ff9O15cyj%2Fgujh%2FOGSbZnKR96RGj11yel6pDtLWHUtf7UySHhOTjXNQF%2BiHOAytOjHx6UxvU%2FfNFmyt%2BsrdNMjBU%3D&amp;bencs=MgoM00cOdKmS9ndbFvi7jqFWNWmRjbgZONNEzAUceUa1exMrfFY8DKl%2FXC2vr6BH" class="internerLink primaerElement" title="Zu den Details des Stellenangebots"><span>Physiotherapeut/in gesucht (Physiotherapeut/in)</span></a>
 
 	
 				</div>
@@ -724,7 +2038,7 @@
 			
 				<div>
 
-                <span id="datumdererstmaligenveroffentlichungdesstellenangebots_1">18.02.2017</span>
+                <span id="datumdererstmaligenveroffentlichungdesstellenangebots_9">18.02.2017</span>
 	
 				</div>
 			
@@ -740,7 +2054,7 @@
 
 				
 			
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.arbeitgeberdesstellenangebots_1" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_arbeitgeber&amp;bencs=s2oW0CH4uL%2FF4ZEeKxsnzrDKnXs%2BohT12xyM4Dg56iKyAYnxTfMFkaLms5MAShBls1JLuSAdcymnNwf6jSMIIQ%3D%3D" class="internerLink sekundaerElement" title="Zu weiteren Details zum Arbeitgeber"><span>TopPhysis UG</span></a>
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.arbeitgeberdesstellenangebots_9" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_arbeitgeber&amp;bencs=pG8%2Fyydn0DIJ7n1Lznd7nm6bYGJ5hU9h97RvlnZPdfTpngJJg5Dme6foqCqqr2NqFrLmD3yX%2Fl641QmBch0Few%3D%3D" class="internerLink sekundaerElement" title="Zu weiteren Details zum Arbeitgeber"><span>TopPhysis UG</span></a>
 				
 	
 				</div>
@@ -816,1298 +2130,6 @@
 
 
 
-<span id="entfernungzumarbeitsortinkm_1"></span>
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-	
-
-
-	sofort
-
-
-	
-				</div>
-			
-
-			</td>
-<td>
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.merken_1" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_merken&amp;encs=LxymYuCR56LMKd5%2B2C7Js%2FfUEfk5ZgLODTpQ47gA%2BD%2Bls7G1kd7suax6KJqAFQDoVKpvNuzCIkT1hY6tbn9kbQ%3D%3D" class=" sekundaerElement" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus"><img class="iconMerken" width="19" height="19" src="/vamJB/images/icons/icon_merken_grau.gif" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus" alt="Vormerken-Icon"/></a>
-
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.kartezumstellenangebot_1" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_karteZumStellenangebot&amp;encs=H1o%2BylC2yj%2BKddDHH45Th8dHH%2FiFBVz%2BPhTjHpI6YkBUT%2Fw5ra50gGgh%2BBH6dJLpcPtZdctS499Ttz6yo3JSeQ%3D%3D&amp;encs=OnglPbfez0WTkVVxcsLZyOvRhqd13s1e87j%2Faq%2FrDCuzqjXlU8I3pLV4Jgx0noHN7naaKLxN5IaLPVphfav2DA%3D%3D" class=" sekundaerElement" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an"><img class="iconKarteZumStellenangebot" width="19" height="19" src="/vamJB/images/icons/icon_karteStellenangebot.png" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an" alt="Karte zum Stellenangebot anzeigen"/></a>
-
-	
-
-
-
-			</td></tr>
-<tr class="ungerade">
-<td>
-	
-			
-				<div>
-
-				
-        
-<img class="relevanz" width="51" height="19" src="/vamJB/images/icons/Matchingscore_5v5_weiss.gif" title="Ein Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots ist nicht m&ouml;glich, da das Stellenangebot von einer kooperierenden Stellenb&ouml;rse stammt" alt="Maximale &Uuml;bereinstimmung"/>	   
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-				
-		
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.berufsbezeichnungdesstellenangebots_2" href="/vamJB/redirect_extern?url=Ad6mpQFZ7h%2F6h1K3jGhAcX%2Br3WE01Wy682%2B%2FuKudDcPRZkoe6MKKX%2FQzAvzWg%2B58Ht0se%2FZIj0t5fVuaZOlg%2BbdEnF%2Fzee7d13lEgJes3yQCaDlH99BZ2E%2BuxucXVgoL&bencs=kxi6NLQaYiyN0Vwmh5lIXfykQ9F3aSxr3hog9apmO3lglObQ87cgZO7yFmNA%2FgpJ" class="externerLink primaerElement" target="_blank" title="Zu den Details des Stellenangebots. &Ouml;ffnet sich in neuem Fenster."><span>Physiotherapeut/in</span><img class="iconExtern" width="11" height="9" src="/vamJB/images/icons/icon_externerLink_weiss.gif" title="Zu den Details des Stellenangebots. &Ouml;ffnet sich in neuem Fenster." alt="Externer Link"/></a>
-
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-                <span id="datumdererstmaligenveroffentlichungdesstellenangebots_2">18.02.2017</span>
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-
-	
-			
-				<div>
-
-				
-			
-				Physiotherapie
-				
-	
-				</div>
-			
-
-	
-			
-				<div>
-
-				
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.datenherkunftdesstellenangebots_2" href="/vamJB/redirect_extern?url=WznP1dx%2BDJEOvLhXruY7BaymeSZZW%2BIsDrIiBv0NVcGVBLsxtmhmPYSegXls53sU6WEyc53uBjxvUbkdyZaT3g%3D%3D" class="externerLink sekundaerElement" target="_blank" title="Zur Datenherkunft des Stellenangebots. &Ouml;ffnet sich in neuem Fenster"><span>Online-Stellenmarkt.net</span><img class="iconExtern" width="11" height="9" src="/vamJB/images/icons/icon_externerLink_weiss.gif" title="Zur Datenherkunft des Stellenangebots. &Ouml;ffnet sich in neuem Fenster" alt="Externer Link"/></a>
-
-	
-				</div>
-			
-
-	
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-		
-		
-	
-		
-		
-			53332
-			
-			
-				Bornheim, Rheinland
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-	
-	
-	
-
-
-
-
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-	
-
-
-
-
-<span id="entfernungzumarbeitsortinkm_2"></span>
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-	
-
-
-	sofort
-
-
-	
-				</div>
-			
-
-			</td>
-<td>
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.merken_2" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_merken&amp;encs=polw1gAyoT9dIYQVSAm6LQG4G8dh27%2BGwC2SnkpSLk8P4lCYr9I6fzP22%2BgxzuohPbvmLgNXsOWfac6ODUOEBQ%3D%3D" class=" sekundaerElement" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus"><img class="iconMerken" width="19" height="19" src="/vamJB/images/icons/icon_merken_weiss.gif" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus" alt="Vormerken-Icon"/></a>
-
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.kartezumstellenangebot_2" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_karteZumStellenangebot&amp;encs=mWZ%2FT7HU%2FWd%2FcQOVvRwxgyihbDXuVc%2FsiUhEM%2Bls4lGkGglXjGrQfiywQpsoeYucQnTqiHcKf0LRdoIJGuC9dQ%3D%3D&amp;encs=fYnjFJqrBp0HuZ160DgnD7%2BEZOytxV7%2FanPAZbi86VwIDJDbyukXVhyUEx2sK1yUKCGkjVqgapv%2Bnxs%2FxsqVEw%3D%3D" class=" sekundaerElement" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an"><img class="iconKarteZumStellenangebot" width="19" height="19" src="/vamJB/images/icons/icon_karteStellenangebot.png" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an" alt="Karte zum Stellenangebot anzeigen"/></a>
-
-	
-
-
-
-			</td></tr>
-<tr class="gerade">
-<td>
-	
-			
-				<div>
-
-				
-        
-<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.matchingquote_3" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_matchingquote&amp;encs=F9901ILNHFINXenRqA4k9SRZzJh%2BEwoax2Oe0eakuLHi8tHlp8qYG97yFBFdo4n4GhqUWkEYI9gN%2B1W4m%2F4ijA%3D%3D" class="relevanz" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots"><img class="relevanz" width="51" height="19" src="/vamJB/images/icons/Matchingscore_5v5_grau.gif" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots" alt="Maximale &Uuml;bereinstimmung"/></a>
-	   
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-				
-		
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.berufsbezeichnungdesstellenangebots_3" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_detailView&amp;bencs=yYvgi%2FFoKdL09UpVcDBdsq5QMmgZX3sHWA2ErAaHlZK9LHD5mTq9j7r0mZQDxsWs&amp;bencs=UAxsR3CicXDTdEItUgVtxJEulMripepWiNilKtMooOWvZLgYGdglmgHTCN55DbaVPmApZCa4gHP8uNa43w65JQ%3D%3D&amp;bencs=3Tc93OHDqXxbTG%2B3oiZ5aTzp%2BlAotEIHl7S5nd6vBA4ZYnstCdSYNPEJmXlratP7uV6nar7%2Fi0XGD7%2BmEr4LXwJzCrofinKViSck7ezMLEU%3D&amp;bencs=EmUrbQEuFd3htRqNAKpR41isYdHT95qXPZLKeWRJPcVg4F8C84tbJiMB0is4uHX7" class="internerLink primaerElement" title="Zu den Details des Stellenangebots"><span>Physiotherapeuten/innen (Physiotherapeut/in)</span></a>
-
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-                <span id="datumdererstmaligenveroffentlichungdesstellenangebots_3">18.02.2017</span>
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-	
-
-
-
-
-<div class="cf">
-		<img id="logo_3" src="anzeigen?S1eZtlFP=1000000029528337886&amp;7Gdls4IvN=eRjI6fLS&amp;ladeAGLogoKleinKey=ladeAGLogoKleinValue" alt="Firmenlogo des Arbeitgebers" title="Firmenlogo des Arbeitgebers" class="arbeitgeberlogoErgebnisliste"/>
-
-</div>
-
-	
-				</div>
-			
-
-	
-			
-				<div>
-
-				
-			
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.arbeitgeberdesstellenangebots_3" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_arbeitgeber&amp;bencs=K34Q6X%2FqNhtI3%2FEWVpdNAISuZXv5rmKw8fOSkY9h97VrOlEmvTVuoObD8VVp4HRzTKdIOsJHaVtVPB21ef8MwA%3D%3D" class="internerLink sekundaerElement" title="Zu weiteren Details zum Arbeitgeber"><span>&Auml;rzte- und Unternehmensberatung mfconcept</span></a>
-				
-	
-				</div>
-			
-
-	
-			
-
-	
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-		
-		
-	
-		
-		
-		
-		
-		
-		
-		
-		
-			Bayern
-		
-		
-		
-		
-	
-	
-	
-	
-
-
-
-
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-	
-
-
-
-
-<span id="entfernungzumarbeitsortinkm_3"></span>
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-	
-
-
-	sofort
-
-
-	
-				</div>
-			
-
-			</td>
-<td>
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.merken_3" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_merken&amp;encs=U%2BXc9WSPdhg8bKXatzkkbDjK8IbWZvFSudFD3qnAz5cTWVKH%2BKgHEOQvCooCTpWNdppvaz1BnVRyBH6%2FsWI91g%3D%3D" class=" sekundaerElement" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus"><img class="iconMerken" width="19" height="19" src="/vamJB/images/icons/icon_merken_grau.gif" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus" alt="Vormerken-Icon"/></a>
-
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.kartezumstellenangebot_3" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_karteZumStellenangebot&amp;encs=O6abCgJAuYpOfhEO6X3agBdQLzgKrvinO1IM2p3cLofjR03nVsVAyHiWkVuSiJJGehFdrErntWx%2BO1eYakW3AQ%3D%3D&amp;encs=4OHmKZSN3oZv7TKOpgXrW87ED8b9IFlvLt2OoeG86KiYigm2q3diO9GaH66HHO0v5lsK3XhhjUJH%2Fi2ZTtq6CA%3D%3D" class=" sekundaerElement" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an"><img class="iconKarteZumStellenangebot" width="19" height="19" src="/vamJB/images/icons/icon_karteStellenangebot.png" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an" alt="Karte zum Stellenangebot anzeigen"/></a>
-
-	
-
-
-
-			</td></tr>
-<tr class="ungerade">
-<td>
-	
-			
-				<div>
-
-				
-        
-<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.matchingquote_4" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_matchingquote&amp;encs=vlLfDCdRCKnXEZt5O3ZmYbt1voxh8LwIRifjkVIjgDHs1k9r5ydY5AJpm30tYHsJjyL8c47iXroXyu3M56%2F8BA%3D%3D" class="relevanz" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots"><img class="relevanz" width="51" height="19" src="/vamJB/images/icons/Matchingscore_5v5_weiss.gif" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots" alt="Maximale &Uuml;bereinstimmung"/></a>
-	   
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-				
-		
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.berufsbezeichnungdesstellenangebots_4" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_detailView&amp;bencs=jmq1HczbE4WMgPKUdcuUK9RVecR%2F%2Bff81U3tj08WlzSNdu9YVnlZW507c6DjHT7v&amp;bencs=R9pn5g%2BTnQUAiYcsbJPaTF3eC1ycjDInSUjnv%2B6M8zir%2FrBtL5U%2FDshKH2dUZfBcbEekTLetbTL9cIBISIqaBA%3D%3D&amp;bencs=ON%2FRrTFvxErWMJl1KsqJDDd7TIlptSxG%2FzYOUlvRyRRHb%2B6T6XHEdtAjoU%2BRULccWmRh%2Fbx94zbPXlV0t5UmzA%3D%3D&amp;bencs=QGF9DCcu3gGtClMgxJxnO995MgG2VULK9e0yiMWT3Var1QblfaTBH1dxBI%2FnzNyf" class="internerLink primaerElement" title="Zu den Details des Stellenangebots"><span>Physiotherapeut/in (Physiotherapeut/in)</span></a>
-
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-                <span id="datumdererstmaligenveroffentlichungdesstellenangebots_4">18.02.2017</span>
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-
-	
-			
-				<div>
-
-				
-			
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.arbeitgeberdesstellenangebots_4" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_arbeitgeber&amp;bencs=ZD3BcUxB9eZk0vPClWdMiItODsEjsvQsw4k%2FckHW9lP80heK9kzwBC3l6BtArBcXV7c2KVMOV3VtGyOvGfX%2F4g%3D%3D" class="internerLink sekundaerElement" title="Zu weiteren Details zum Arbeitgeber"><span>Physiotherapie</span></a>
-				
-	
-				</div>
-			
-
-	
-			
-
-	
-			
-				<div>
-
-	
-
-<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.weitereangebote_4" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_weitereAngebote&amp;encs=PJdLOqeWLB8hopZCORqj1kqbe9UDvDZBN9rKiu0XdFZGqkmRUnkEztS3Bh1DfSh%2BNZN0angC6emzNRk14IKCRg%3D%3D" title="Weitere passende und &auml;hnliche Stellenangebote des Arbeitgebers aufrufen"><img class="iconWeitereAngebote" width="9" height="10" src="/vamJB/images/icons/icon_weitereangebote_weiss.png" title="Weitere passende und &auml;hnliche Stellenangebote des Arbeitgebers aufrufen" alt="Weitere Angebote"/><span class="weitereAngeboteLinktext">Weitere Angebote</span></a>
-
-
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-		
-		
-	
-		
-		
-			10555
-			
-			
-				Berlin
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-	
-	
-	
-
-
-
-
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-	
-
-
-
-
-<span id="entfernungzumarbeitsortinkm_4"></span>
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-	
-
-
-	sofort
-
-
-	
-				</div>
-			
-
-			</td>
-<td>
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.merken_4" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_merken&amp;encs=e8YCrZFmuO0poHmCtTG38OuIUCFMFdhfgDpA98ofKy82tA9NIjUO4LD74bTmrtK6OQykW%2BizC4q2UsIfFfpEJw%3D%3D" class=" sekundaerElement" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus"><img class="iconMerken" width="19" height="19" src="/vamJB/images/icons/icon_merken_weiss.gif" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus" alt="Vormerken-Icon"/></a>
-
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.kartezumstellenangebot_4" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_karteZumStellenangebot&amp;encs=8CArb58nCzOZwoaFwiHCr%2FVQ1dfx1dkG9u9j6NHXBbcgBAXanFNxh7yMEq9djekdhdydz3Jms%2Bjnb%2Fj8jVf9sA%3D%3D&amp;encs=NLGZyAzA0KO%2FZfXn55MuW6i41B5AthmtWta4RwF%2FWmSFmfMVe3Q6g7EfnAsQBg3bE1JOHj9hsa%2FxrLqdP6OGIw%3D%3D" class=" sekundaerElement" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an"><img class="iconKarteZumStellenangebot" width="19" height="19" src="/vamJB/images/icons/icon_karteStellenangebot.png" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an" alt="Karte zum Stellenangebot anzeigen"/></a>
-
-	
-
-
-
-			</td></tr>
-<tr class="gerade">
-<td>
-	
-			
-				<div>
-
-				
-        
-<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.matchingquote_5" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_matchingquote&amp;encs=oySR4ydBd6qjcJ3ZV9g4DebguF7fb91MNSnMnwM7HEBEWMfoPTgFgHcX942ByMQOuL%2FG7dspSrMvRRRyFWkPLw%3D%3D" class="relevanz" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots"><img class="relevanz" width="51" height="19" src="/vamJB/images/icons/Matchingscore_5v5_grau.gif" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots" alt="Maximale &Uuml;bereinstimmung"/></a>
-	   
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-				
-		
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.berufsbezeichnungdesstellenangebots_5" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_detailView&amp;bencs=xPo%2BGRrmLEYAU3JRIyVWuAz4MVRUChBZ4EK%2B5ez54MGGrugtavbOSw%2BnzWUWugkp&amp;bencs=qpaCkeQZDF7rP28jd5%2BKYX%2FIQQrMs17pJnrqsX3KNtRY9E2DxiEihV7Z4FunG61%2BwdVxwUIdjgjkHvXf6I2BKQ%3D%3D&amp;bencs=c%2Fmik3dHFkWTa%2BrgiizGw2At1riATANHCmqxpjYMVu8d99YirqPBRlxGpxuq5oFlVU6k4g2wa1C2ldA1lvEntg%3D%3D&amp;bencs=ga5uaL2GTeNCw1wAiQ9j4c0ymO1zywr0qaaq%2BG%2FbB38UHow59BSYmZd1Rfph967V" class="internerLink primaerElement" title="Zu den Details des Stellenangebots"><span>Physiotherapeut/in (Physiotherapeut/in)</span></a>
-
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-                <span id="datumdererstmaligenveroffentlichungdesstellenangebots_5">18.02.2017</span>
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-
-	
-			
-				<div>
-
-				
-			
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.arbeitgeberdesstellenangebots_5" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_arbeitgeber&amp;bencs=BAevDGTjHyw3iqoG9JfZJiN%2FyVTQ3bf%2BuPM6aj27XmCIzZ7ypocNp9ldNw4%2FOUlfh9pPlNMs%2BHt1NShL6ZmU5g%3D%3D" class="internerLink sekundaerElement" title="Zu weiteren Details zum Arbeitgeber"><span>Praxis f&uuml;r Physiotherapie und  Osteopathie Karl Taffelt</span></a>
-				
-	
-				</div>
-			
-
-	
-			
-
-	
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-		
-		
-	
-		
-		
-			90403
-			
-			
-				Nürnberg, Mittelfranken
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-	
-	
-	
-
-
-
-
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-	
-
-
-
-
-<span id="entfernungzumarbeitsortinkm_5"></span>
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-	
-
-
-	15.05.2017
-
-
-	
-				</div>
-			
-
-			</td>
-<td>
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.merken_5" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_merken&amp;encs=PtGABphZlPosWa4xqf3dIWw%2FtMaybXQ1Dj%2B4wPg%2FaAWaHwohs8DBqFuBQ%2Fj6MXWihXhFe4rrI5H5%2BXja9OW%2B6Q%3D%3D" class=" sekundaerElement" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus"><img class="iconMerken" width="19" height="19" src="/vamJB/images/icons/icon_merken_grau.gif" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus" alt="Vormerken-Icon"/></a>
-
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.kartezumstellenangebot_5" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_karteZumStellenangebot&amp;encs=jRMFooGgWRelJPpPY%2B8aDdeI3l%2BSFBvv8gyIpRAWWkbKeNhdI8%2BkgevBHv4Re%2FT%2FpKjvQ8rMV2jPlxEKJw5t3w%3D%3D&amp;encs=%2F8pmngIqeN2GbPAWD%2BUdOUWXRupVQm9c3uKmyqlL4hUsHHOqznma7b4DmGIyEzbdaM3tAmDkS5F5PSxBdBV5Pw%3D%3D" class=" sekundaerElement" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an"><img class="iconKarteZumStellenangebot" width="19" height="19" src="/vamJB/images/icons/icon_karteStellenangebot.png" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an" alt="Karte zum Stellenangebot anzeigen"/></a>
-
-	
-
-
-
-			</td></tr>
-<tr class="ungerade">
-<td>
-	
-			
-				<div>
-
-				
-        
-<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.matchingquote_6" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_matchingquote&amp;encs=xoiTRfsjpIKeC39P8IUHPQH8PfNtxXs%2FFFU9HJ%2F3FVinfnkZZ7t8i53DbMdh7abAD4s3fGB87T4eQH5FxjYFfg%3D%3D" class="relevanz" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots"><img class="relevanz" width="51" height="19" src="/vamJB/images/icons/Matchingscore_5v5_weiss.gif" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots" alt="Maximale &Uuml;bereinstimmung"/></a>
-	   
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-				
-		
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.berufsbezeichnungdesstellenangebots_6" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_detailView&amp;bencs=3GFC8JsVe8RTXfMMuKufwpi0a8iBbUfyj8%2BE6l1Tz3F%2FXVSVL0ZnoekiixlvXFWg&amp;bencs=nBJn2vqqV6LdAoEeFzSyNVkIN1GjE5jIEsvHEt9DI9UYo%2BjpTjVsIj7pG6B37QP3HSPGkfdaF63keiL%2BPBQ3Og%3D%3D&amp;bencs=sp9oxEkW447AQY5DYorlWIG8cJLsjy4p3NkB27nNFoTYp45j6%2Fcv5yoDxUpakM9CFfqEM%2FTB8Nzm8s5Jwj5Tdw%3D%3D&amp;bencs=9piQmo%2FWOCPwTEPq%2BMok8m1DsptfTYDFIF4q1wKnVQcsTbIKHuFDMS9CUKIw06VG" class="internerLink primaerElement" title="Zu den Details des Stellenangebots"><span>Physiotherapeut/ in (Physiotherapeut/in)</span></a>
-
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-                <span id="datumdererstmaligenveroffentlichungdesstellenangebots_6">18.02.2017</span>
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-
-	
-			
-				<div>
-
-				
-			
-				Arbeitgeber anonymisiert
-				
-	
-				</div>
-			
-
-	
-			
-
-	
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-		
-		
-	
-		
-		
-			72250
-			
-			
-				Freudenstadt
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-	
-	
-	
-
-
-
-
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-	
-
-
-
-
-<span id="entfernungzumarbeitsortinkm_6"></span>
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-	
-
-
-	sofort
-
-
-	
-				</div>
-			
-
-			</td>
-<td>
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.merken_6" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_merken&amp;encs=lCAKxvjEzrdFPz4o%2Fst1cT0V%2FHRY7ukWOsal86uN374itYNaJXV%2Bjc%2FDyUJfNVMBSlcL2mHPPmmhyBqKmun2Ag%3D%3D" class=" sekundaerElement" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus"><img class="iconMerken" width="19" height="19" src="/vamJB/images/icons/icon_merken_weiss.gif" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus" alt="Vormerken-Icon"/></a>
-
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.kartezumstellenangebot_6" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_karteZumStellenangebot&amp;encs=kH10xVBsfdghA1W5GooCvS73q4LtP4mxLSwilDvkD%2B%2BFAJ3Soake9lLuFk3PH%2BWKTyrmXxbw6aYrfev3D%2Fn55g%3D%3D&amp;encs=Azu8m1hRJIeH07yk2W5c2x%2BQ5X%2BA5MiQjxPJgulVny%2FgJ%2F2s%2By4dsvzom7Z1F%2Fsyc06toGOkNkwYW%2FP50thi%2FQ%3D%3D" class=" sekundaerElement" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an"><img class="iconKarteZumStellenangebot" width="19" height="19" src="/vamJB/images/icons/icon_karteStellenangebot.png" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an" alt="Karte zum Stellenangebot anzeigen"/></a>
-
-	
-
-
-
-			</td></tr>
-<tr class="gerade">
-<td>
-	
-			
-				<div>
-
-				
-        
-<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.matchingquote_7" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_matchingquote&amp;encs=tdOqtIeMlU91x3GmVqBZkZEF6WKE0%2BzqZGPdxiHQuuA4IOo1owa%2BEmXWEJArQHrWDb0QmbrcF65xtDqMx3ZjhQ%3D%3D" class="relevanz" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots"><img class="relevanz" width="51" height="19" src="/vamJB/images/icons/Matchingscore_5v5_grau.gif" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots" alt="Maximale &Uuml;bereinstimmung"/></a>
-	   
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-				
-		
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.berufsbezeichnungdesstellenangebots_7" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_detailView&amp;bencs=xucqFL49qtYrIya4RnCWx31st%2Fza1sRpQbs8V9T3L4VtjD8V1%2F8pXWLONikumnw1&amp;bencs=ytj0zYMthXBGEGLUtsS5eezDA%2FiRLO1GjAOdmwE59G%2FEpYn%2BOEziHf%2FaMwzUpJKPFGPnq1R4qh%2FIlVLDL%2BEA%2FA%3D%3D&amp;bencs=LkO%2Fc6%2FKY%2F%2FwhPRht1qV7rEOJuvPchQdcAmNmSzxU%2BsgtON6ZjJLRmOzuR7yPY1f&amp;bencs=Pa3M3PI9I888IR2Dm9TuwYD8IlCCcKC4oTu0AN%2FggYC8Pl80s3MCvP2qFx%2BlkaRE" class="internerLink primaerElement" title="Zu den Details des Stellenangebots"><span>Physiotherapeut/in</span></a>
-
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-                <span id="datumdererstmaligenveroffentlichungdesstellenangebots_7">17.02.2017</span>
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-
-	
-			
-				<div>
-
-				
-			
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.arbeitgeberdesstellenangebots_7" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_arbeitgeber&amp;bencs=lbp6rCudDzJrCgtTyyAZIyiS5BEFAy4pv%2FedRuTVr9MWcNuz9tBhzQbZpWBZkvKPtZUHMN%2BAlro%2Bj16O7knDgQ%3D%3D" class="internerLink sekundaerElement" title="Zu weiteren Details zum Arbeitgeber"><span>Petra Ress-K&ouml;rner Physiotherapie</span></a>
-				
-	
-				</div>
-			
-
-	
-			
-
-	
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-		
-		
-	
-		
-		
-			13507
-			
-			
-				Berlin
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-	
-	
-	
-
-
-
-
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-	
-
-
-
-
-<span id="entfernungzumarbeitsortinkm_7"></span>
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-	
-
-
-	sofort
-
-
-	
-				</div>
-			
-
-			</td>
-<td>
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.merken_7" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_merken&amp;encs=RO%2BBOOJKQ47UpyvElVq5%2BF3GAuGNuH50g3VpROSVxeMtKzwitWy9ePWQIYUHRKahQ8OO64WA2Lv9WYnlfBDlVw%3D%3D" class=" sekundaerElement" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus"><img class="iconMerken" width="19" height="19" src="/vamJB/images/icons/icon_merken_grau.gif" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus" alt="Vormerken-Icon"/></a>
-
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.kartezumstellenangebot_7" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_karteZumStellenangebot&amp;encs=8wmNiTKOJB9t0TJs1qPU3Xer37mj6%2FKZ%2BNmOTjo3a7v996Rpy3XPDGabh19tr5cxMQzvGiJkX9dEgEUs8bcsxA%3D%3D&amp;encs=b6CZ7sneFSHFXpWO96vDA2iB8%2BLEf3g2bAdwvMAJ1peyEXtoOush%2ByscBVDkao1LK09xm%2BgtVdmwZQHQDNAJ8A%3D%3D" class=" sekundaerElement" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an"><img class="iconKarteZumStellenangebot" width="19" height="19" src="/vamJB/images/icons/icon_karteStellenangebot.png" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an" alt="Karte zum Stellenangebot anzeigen"/></a>
-
-	
-
-
-
-			</td></tr>
-<tr class="ungerade">
-<td>
-	
-			
-				<div>
-
-				
-        
-<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.matchingquote_8" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_matchingquote&amp;encs=5HfjUTgLPJHw5Kan6or11sDbtZWj7NfRZyyQpZwPy8i%2BLb06SV5ogPFKcXIZMXPL7cIh3qgo%2FsjQNhCvTj0meQ%3D%3D" class="relevanz" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots"><img class="relevanz" width="51" height="19" src="/vamJB/images/icons/Matchingscore_5v5_weiss.gif" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots" alt="Maximale &Uuml;bereinstimmung"/></a>
-	   
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-				
-		
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.berufsbezeichnungdesstellenangebots_8" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_detailView&amp;bencs=uvyghSGO6wulBicOPdwoYNQB8MmyxlgiNlkHLNhkUW8AMEHQCjj3QMCPFBcdSGV9&amp;bencs=HxdKFLVgfHt51%2F1rCiKTHrrjWhdAFFy4Sixo8NGMLhraTsNsZsjqGoqU1Nsof4pYCEYGOry9etbv5%2BuXsZMGvw%3D%3D&amp;bencs=MJ9VOcK%2FbTw1vv9mrGI%2FuBfIAPCLWk7ImaR%2BPdxcseZ1edU5LHDlgsDP5TQdb1qNV8E8jCUG%2FRQpe1tzpSEuvdIgW7gg%2BGYaWT2GO0jO2Bk%3D&amp;bencs=muA8t%2BezR%2FKZha0W6tNCxpQTO%2FH2I0YikRKL2kNOVrisBQKLFiSvOvKXkIdX4mtZ" class="internerLink primaerElement" title="Zu den Details des Stellenangebots"><span>Physiotherapeut/in gesucht (Physiotherapeut/in)</span></a>
-
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-                <span id="datumdererstmaligenveroffentlichungdesstellenangebots_8">17.02.2017</span>
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-
-	
-			
-				<div>
-
-				
-			
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.arbeitgeberdesstellenangebots_8" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_arbeitgeber&amp;bencs=6zHNzNJ3KtTW3abPiifwN4WG9EhEocJrubO%2F%2BQTdc9vjW1nuYMRhVRXyua8XSzf9s4xhO07qTizNVCIvSpnGpg%3D%3D" class="internerLink sekundaerElement" title="Zu weiteren Details zum Arbeitgeber"><span>Praxis f&uuml;r Physiotherapie Carola Schr&ouml;der</span></a>
-				
-	
-				</div>
-			
-
-	
-			
-
-	
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-		
-		
-	
-		
-		
-			10365
-			
-			
-				Berlin
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-	
-	
-	
-
-
-
-
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-	
-
-
-
-
-<span id="entfernungzumarbeitsortinkm_8"></span>
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-	
-
-
-	20.02.2017
-
-
-	
-				</div>
-			
-
-			</td>
-<td>
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.merken_8" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_merken&amp;encs=rj3RT97lKAo1hZ06XiWhg2QXyRTDVXnufIWgJVh5CsAl6L7lHYJqdJG5pY1nf5v8fCjrShQiiRr7RQe3oyPltA%3D%3D" class=" sekundaerElement" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus"><img class="iconMerken" width="19" height="19" src="/vamJB/images/icons/icon_merken_weiss.gif" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus" alt="Vormerken-Icon"/></a>
-
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.kartezumstellenangebot_8" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_karteZumStellenangebot&amp;encs=XJFlwquC3Yo2NxLo6Lo4y%2BnMqd%2BWEfRh5O7ky%2FuKFsDnQSKBBq%2Bbfjw0jAm606ODjcIE5sEXWt2pWh0bzehoww%3D%3D&amp;encs=Luo7Ubl1q96P1VuaZXv6cCupEBl06Hmxyn6CNghK8Bu0iIexD%2BAi8peoBWc9eBfb%2FFRSsW1%2FcgmlLtny5k%2Fx0Q%3D%3D" class=" sekundaerElement" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an"><img class="iconKarteZumStellenangebot" width="19" height="19" src="/vamJB/images/icons/icon_karteStellenangebot.png" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an" alt="Karte zum Stellenangebot anzeigen"/></a>
-
-	
-
-
-
-			</td></tr>
-<tr class="gerade">
-<td>
-	
-			
-				<div>
-
-				
-        
-<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.matchingquote_9" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_matchingquote&amp;encs=tygzz97YkSLIkfkQzhcnZ1Q3UaimoLXISVUgvzqyMe2eRVCkkN1WCDRDqsOTqt9ZyQrmeG2LxQF1rvzqofvHXw%3D%3D" class="relevanz" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots"><img class="relevanz" width="51" height="19" src="/vamJB/images/icons/Matchingscore_5v5_grau.gif" title="Zum Vergleich Ihrer Suchkriterien mit den Angaben dieses Stellenangebots" alt="Maximale &Uuml;bereinstimmung"/></a>
-	   
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-				
-		
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.berufsbezeichnungdesstellenangebots_9" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_detailView&amp;bencs=6Cpce6P5kKjKnPh42yK4T9c91%2FM%2BtrI045b%2FZy%2F%2B%2B38munE%2Fi%2Fc29Yf01bq55OXV&amp;bencs=wxtUMWWMJIMt2VwGJI%2FMZZoHqDAh4eopMjL8ZyCtNyejHHrX6kAYiIyu%2F8RlpDVskDaWHJfFPZcSh5bUJojUZQ%3D%3D&amp;bencs=zvgCMpjk2bSwjD8FCw9F%2FU5%2Bx7XSoE2nAtFhxjb4iLADI2lnm1uz%2BemOY%2ByT64PaTPdVKz5m222d1fWPZIUhFA%3D%3D&amp;bencs=3FtzmblXyRlXlES6mq%2ByFGef7WQR1yBgI4XBypntDPbRRFINfTqagWi7eSyXWCX4" class="internerLink primaerElement" title="Zu den Details des Stellenangebots"><span>Physiotherapeut/in (Physiotherapeut/in)</span></a>
-
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-                <span id="datumdererstmaligenveroffentlichungdesstellenangebots_9">17.02.2017</span>
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-
-	
-			
-				<div>
-
-				
-			
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.arbeitgeberdesstellenangebots_9" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_arbeitgeber&amp;bencs=XVc3XF5GeCQu67L2PGMneyukLLP9lvNuuMrvJ4x%2B%2F7metJtFZyBFuu04EiNAFvuFWKcpZNC5cf8aWl4G1GhImw%3D%3D" class="internerLink sekundaerElement" title="Zu weiteren Details zum Arbeitgeber"><span>Praxis f&uuml;r Krankengymnastik und Logop&auml;die</span></a>
-				
-	
-				</div>
-			
-
-	
-			
-
-	
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-		
-		
-	
-		
-		
-			34454
-			
-			
-				Bad Arolsen
-			
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	
-	
-	
-	
-
-
-
-
-	
-				</div>
-			
-
-			</td>
-<td>
-	
-			
-				<div>
-
-	
-
-
-
-
 <span id="entfernungzumarbeitsortinkm_9"></span>
 	
 				</div>
@@ -2122,7 +2144,7 @@
 	
 
 
-	01.03.2017
+	sofort
 
 
 	
@@ -2131,9 +2153,9 @@
 
 			</td>
 <td>
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.merken_9" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_merken&amp;encs=T8dfRtwwheRlrW932T16Nu2Il12tFCb%2BqbmrAq0unXlRQk5ZCVhLVhxnFuraIKGXg4XsZLDQJDu4y0FH1l%2BPRA%3D%3D" class=" sekundaerElement" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus"><img class="iconMerken" width="19" height="19" src="/vamJB/images/icons/icon_merken_grau.gif" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus" alt="Vormerken-Icon"/></a>
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.merken_9" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_merken&amp;encs=JZPlS52WgteoaDJItt0wDEYCsSQirGhFS8CrGO10DIv7el%2Fp9TCLbt5q7%2FhIKTLpmlkPOKda2szQXaaTcGaP%2FQ%3D%3D" class=" sekundaerElement" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus"><img class="iconMerken" width="19" height="19" src="/vamJB/images/icons/icon_merken_grau.gif" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus" alt="Vormerken-Icon"/></a>
 
-				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.kartezumstellenangebot_9" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_karteZumStellenangebot&amp;encs=QZ5NWPOLmD4RZUJXspT0dyF114TtzbcE1spSj8Kt9lacnOtsY8LZ5A6pYzzzzSX1Lj5YJMZqcdX8xiZiPQXXZA%3D%3D&amp;encs=kbRhrLvkC5QgY8JrlhTKg9fPnB%2Bge8BOseAgJt%2FV1mjKSq3vfsksQ%2FkX1RyD5vusHHeCox8OYIZgIJnlfszb%2BQ%3D%3D" class=" sekundaerElement" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an"><img class="iconKarteZumStellenangebot" width="19" height="19" src="/vamJB/images/icons/icon_karteStellenangebot.png" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an" alt="Karte zum Stellenangebot anzeigen"/></a>
+				<a id="zugang.stellenangebotesuchen.ergebnisanzeigedersuchenachstellenangeboten.kartezumstellenangebot_9" href="/vamJB/stellenangeboteFinden.html?execution=e1s1&amp;_eventId_karteZumStellenangebot&amp;encs=xauGTTP0FB4Fz72KyUtzpCGRSTWClvr4me49Wviez39HUrdwD%2FHmF%2BsxJlTudUROhPlQICgezjFn9SAuKFz8XQ%3D%3D&amp;encs=ZsGlNRcbLdXlng%2FXeWQzBEYWiHxLYIF5qHKuL%2FgBl%2FkTOdjvpS34srq7LmsJsg04IXfgdm6IUSXQi2bA%2FFNifA%3D%3D" class=" sekundaerElement" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an"><img class="iconKarteZumStellenangebot" width="19" height="19" src="/vamJB/images/icons/icon_karteStellenangebot.png" title="Zeigt die Karte mit dem passendsten Aus&uuml;bungsort des Stellenangebots an" alt="Karte zum Stellenangebot anzeigen"/></a>
 
 	
 
@@ -2217,10 +2239,6 @@
 ><img class="iconKarteZumStellenangebot" width="19" height="19" src="/vamJB/images/icons/icon_karteStellenangebot.png" alt="Karte zum Stellenangebot anzeigen"/>
 </dt><dd
 >Karte zum Stellenangebot anzeigen
-</dd><dt
-><img class="iconExtern" width="11" height="9" src="/vamJB/images/icons/icon_externerLink_weiss.gif" alt="Externer Link"/>
-</dt><dd
->Externer Link
 </dd>
 </dl>
 </div>
