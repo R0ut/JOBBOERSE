@@ -12,13 +12,12 @@ namespace JOBBOERSE
     class RegEx
     {
         SQL sql;
-        private string text,patern,found,sideLink;
+        private string text, patern, found, sideLink;
         private string compName, name, surtName, street, zipCode, city;
-        private TextBox txtContact;
-        
-        public RegEx(TextBox txt, string sideLink)
+
+
+        public RegEx(string sideLink)
         {
-            this.txtContact = txt;
             this.sideLink = sideLink;
             sql = new SQL();
         }
@@ -26,27 +25,27 @@ namespace JOBBOERSE
 
 
         // uruchomienie metody dla głównej a potem dla pojedynczych ofert. pattern 1 uruchamia pattern dla głównej(pobranie stronek) a 2 uruchamia pattern dla ofert(wyciaga adresy). i to sa nastepne linki od 0 do 9
-        public void LoadFile(string file,int patternOption,int j) 
+        public void LoadFile(string file, int patternOption, int j)
         {
-            
-                try
-                {
+
+            try
+            {
                 string projectPath = (Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName) + "/Resources/" + file + ".txt"; // path of project
                 text = System.IO.File.ReadAllText(projectPath);
 
                 if (patternOption == 1)
                 {
-                   
-                        patern = ReplacePattern(Properties.Resources.pattern1 + j + Properties.Resources.pattern1_1);
-                        match();
+
+                    patern = ReplacePattern(Properties.Resources.pattern1 + j + Properties.Resources.pattern1_1);
+                    match();
                     if (found != null)
                     {
                         Found = Replace(found);
                         found = "";
                     }
-                  
+
                 }
-                else if(patternOption == 2)
+                else if (patternOption == 2)
                 {
                     for (int i = 0; i < 6; i++)
                     {
@@ -65,17 +64,17 @@ namespace JOBBOERSE
                         else if (i == 3) street = Found;
                         else if (i == 4) zipCode = Found;
                         else if (i == 5) city = Found;
-                        //showContact(Found + "\r\n");
+
                         found = "";
                     }
 
-                    //showContact("\r\n-------------\r\n");
-                    sql.AddData(compName, name, surtName, street, zipCode, city);
                     
-                   
+                    if(sql.CompareWithDataBase(compName) != true) sql.AddData(compName, name, surtName, street, zipCode, city);
+
+
 
                 }
-                else if(patternOption == 3)
+                else if (patternOption == 3)
                 {
                     patern = Properties.Resources.patternSideLink1;
                     text = sideLink;
@@ -83,7 +82,7 @@ namespace JOBBOERSE
                     Found = Replace(found);
                     found = "";
                 }
-               
+
             }
             catch (Exception aa)
             {
@@ -94,29 +93,12 @@ namespace JOBBOERSE
 
         private void match() // tutaj trzeba zapetlic do 10
         {
-           
+
             Match match = Regex.Match(text, patern);
             if (match.Success) // znalezienie pierwsze
             {
                 found += match.Value;
             }
-
-            // Get second match.
-            match = match.NextMatch();
-            if (match.Success)//znalezienie nastepne
-            {
-                //found += match.Value;
-                
-            }
-
-            // Get third match.
-            match = match.NextMatch(); //znalezienie nastepne mozna zrobic w petli
-            if (match.Success)
-            {
-               // found += match.Value;
-            }
-
-
         }
 
         private string Replace(string str)
@@ -130,7 +112,7 @@ namespace JOBBOERSE
             tmp = tmp.Replace("&Uuml;", "Ü");
             tmp = tmp.Replace("&uuml;", "ü");
             tmp = tmp.Replace("</", "");
-            
+
 
 
             string output = tmp.Replace("&amp;", "&");
@@ -144,9 +126,6 @@ namespace JOBBOERSE
             return input;
         }
 
-        private void showContact(string text)
-        {
-            txtContact.Text += text;
-        } // metoda do ustawienia txtBox
+
     }
 }
