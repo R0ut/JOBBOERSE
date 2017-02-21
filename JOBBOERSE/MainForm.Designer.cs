@@ -31,15 +31,17 @@
             this.btnGetContact = new System.Windows.Forms.Button();
             this.picInternetStatus = new System.Windows.Forms.PictureBox();
             this.webDownload = new System.Windows.Forms.WebBrowser();
-            this.addresBookDataSet = new JOBBOERSE.AddresBookDataSet();
             this.label1 = new System.Windows.Forms.Label();
             this.btnShowData = new System.Windows.Forms.Button();
+            this.progBarDwonload = new System.Windows.Forms.ProgressBar();
+            this.picLoading = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.picInternetStatus)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.addresBookDataSet)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picLoading)).BeginInit();
             this.SuspendLayout();
             // 
             // btnGetContact
             // 
+            this.btnGetContact.Enabled = false;
             this.btnGetContact.Location = new System.Drawing.Point(15, 30);
             this.btnGetContact.Name = "btnGetContact";
             this.btnGetContact.Size = new System.Drawing.Size(75, 41);
@@ -66,11 +68,7 @@
             this.webDownload.TabIndex = 3;
             this.webDownload.Url = new System.Uri("http://jobboerse.arbeitsagentur.de/vamJB/startseite.html?kgr=as&aa=1&m=1&vorschla" +
         "gsfunktionaktiv=true", System.UriKind.Absolute);
-            // 
-            // addresBookDataSet
-            // 
-            this.addresBookDataSet.DataSetName = "AddresBookDataSet";
-            this.addresBookDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            this.webDownload.DocumentCompleted += new System.Windows.Forms.WebBrowserDocumentCompletedEventHandler(this.webDownload_DocumentCompleted);
             // 
             // label1
             // 
@@ -83,7 +81,7 @@
             // 
             // btnShowData
             // 
-            this.btnShowData.Location = new System.Drawing.Point(13, 78);
+            this.btnShowData.Location = new System.Drawing.Point(15, 77);
             this.btnShowData.Name = "btnShowData";
             this.btnShowData.Size = new System.Drawing.Size(75, 41);
             this.btnShowData.TabIndex = 5;
@@ -91,11 +89,34 @@
             this.btnShowData.UseVisualStyleBackColor = true;
             this.btnShowData.Click += new System.EventHandler(this.btnShowData_Click);
             // 
+            // progBarDwonload
+            // 
+            this.progBarDwonload.Location = new System.Drawing.Point(9, 259);
+            this.progBarDwonload.Maximum = 20;
+            this.progBarDwonload.Name = "progBarDwonload";
+            this.progBarDwonload.Size = new System.Drawing.Size(90, 23);
+            this.progBarDwonload.Step = 1;
+            this.progBarDwonload.TabIndex = 7;
+            this.progBarDwonload.Visible = false;
+            // 
+            // picLoading
+            // 
+            this.picLoading.Image = global::JOBBOERSE.Properties.Resources.loading;
+            this.picLoading.Location = new System.Drawing.Point(15, 178);
+            this.picLoading.Name = "picLoading";
+            this.picLoading.Size = new System.Drawing.Size(75, 75);
+            this.picLoading.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picLoading.TabIndex = 8;
+            this.picLoading.TabStop = false;
+            this.picLoading.Visible = false;
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(637, 431);
+            this.Controls.Add(this.picLoading);
+            this.Controls.Add(this.progBarDwonload);
             this.Controls.Add(this.btnShowData);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.webDownload);
@@ -105,7 +126,7 @@
             this.Name = "MainForm";
             this.Text = "JOBBOERSE";
             ((System.ComponentModel.ISupportInitialize)(this.picInternetStatus)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.addresBookDataSet)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picLoading)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -116,9 +137,10 @@
         private System.Windows.Forms.Button btnGetContact;
         private System.Windows.Forms.PictureBox picInternetStatus;
         private System.Windows.Forms.WebBrowser webDownload;
-        private AddresBookDataSet addresBookDataSet;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button btnShowData;
+        private System.Windows.Forms.ProgressBar progBarDwonload;
+        private System.Windows.Forms.PictureBox picLoading;
     }
 }
 

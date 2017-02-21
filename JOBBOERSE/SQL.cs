@@ -96,6 +96,17 @@ namespace JOBBOERSE
            
         }
 
+        public void RefreshData(DataGridView dataGridView)
+        {
+            SqlConnection con = new SqlConnection(@"Data Source = (LocalDB)\MSSQLLocalDB; AttachDbFilename = " + Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName + @"\AddresBook.mdf; Integrated Security = True");
+            string query = "select * from Contact";
+            SqlCommand cmd = new SqlCommand(query, con);
+            SqlDataAdapter da = new SqlDataAdapter(cmd);
+            DataTable dt = new DataTable();
+            da.Fill(dt);
+            dataGridView.DataSource = dt;
+        }
+
 
 
     }
