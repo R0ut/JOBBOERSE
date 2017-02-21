@@ -42,7 +42,7 @@
 						
 							
 							
-								<title>JOBBÖRSE - Stellenangebot - Physiotherapeut/in (Physiotherapeut/in)</title>
+								<title>JOBBÖRSE - Stellenangebot - Physiotherapeut/in</title>
 							
 						
 					
@@ -119,7 +119,7 @@
 <body>
 
 	
-	<!--##15-->
+	<!--##23-->
 	
 		
 		
@@ -130,7 +130,7 @@
 		<div id="containerKopf">
 	<div id="toplineIcon">&nbsp;</div>
 	<h1 class="versteckt">arbeitsagentur.de - Ein Service der Bundesagentur für Arbeit</h1>
-	<a id="logo" href="http://www.arbeitsagentur.de" title="Zur Hauptseite der Bundesagentur für Arbeit. Öffnet in neuem Fenster;jsessionid=rkZdWOD1k8eXWreQ8hHUAW5KFv3qJGzRLj0C-xo9gu-eAL0yE-jK!1392594019" target="_blank"><img src="/vamJB/images/logos/baa_logo_header.gif" alt="Bundesagentur für Arbeit" title="Zur Hauptseite der Bundesagentur für Arbeit. Öffnet in neuem Fenster;jsessionid=rkZdWOD1k8eXWreQ8hHUAW5KFv3qJGzRLj0C-xo9gu-eAL0yE-jK!1392594019" /></a>
+	<a id="logo" href="http://www.arbeitsagentur.de" title="Zur Hauptseite der Bundesagentur für Arbeit. Öffnet in neuem Fenster;jsessionid=gH9iJpjAa_zAHY8X5ifmdqu-Dp_jug126AXOFhINNU5G3PhccRAz!-821711405" target="_blank"><img src="/vamJB/images/logos/baa_logo_header.gif" alt="Bundesagentur für Arbeit" title="Zur Hauptseite der Bundesagentur für Arbeit. Öffnet in neuem Fenster;jsessionid=gH9iJpjAa_zAHY8X5ifmdqu-Dp_jug126AXOFhINNU5G3PhccRAz!-821711405" /></a>
 
 <div id="containerServiceNavigation">
 
@@ -163,7 +163,7 @@
 
 
 <div id="containerSprache">
-	<form action="/vamJB/spracheAendern;jsessionid=rkZdWOD1k8eXWreQ8hHUAW5KFv3qJGzRLj0C-xo9gu-eAL0yE-jK!1392594019" method="post">	
+	<form action="/vamJB/spracheAendern;jsessionid=gH9iJpjAa_zAHY8X5ifmdqu-Dp_jug126AXOFhINNU5G3PhccRAz!-821711405" method="post">	
         <span class="labelText"><label for="sprache">Sprache</label></span>
 <select id="sprache" name="sprache">	<option value="de" selected="selected">Deutsch</option>
 	<option value="en">English</option>
@@ -173,7 +173,7 @@
 	<option value="ru">Русский</option>
 	<option value="tr">Türkçe</option>
 </select>
-        <input type="hidden" name="aufrufendeSeite" value="/vamJB/stellenangeboteFinden.html;jsessionid=rkZdWOD1k8eXWreQ8hHUAW5KFv3qJGzRLj0C-xo9gu-eAL0yE-jK!1392594019?execution=e1s1&amp;bencs=904stKSinOyz03ImZ7amkKKeiZ4ZeK4%2B0WmwHJC%2B4c7UGETWgcQ93IulJY9FXiA5&amp;bencs=mwuEC3u0tSTETm4vZQd2qiWl26MwyU856jz8ltznAzisJFPPp2KhAtCoMkV3ENFSuzy1LSqesT5Af2ENFLMGDQ%3D%3D&amp;bencs=NsjgF2fG9pUb5sZkslMRm%2B5q%2FhUEx8mv0xYTh6OUWvUJ02WMORYF8T%2F4sE%2F2Z7xtJWwYz%2Bm4dv4Pc0wNdVlUHA%3D%3D&amp;bencs=mfwL5SFXwNEOVvhijpy5H5ZU4qlITdLMrf9c3rY878BKkXZT9on0QksFpi%2Bnq57g" />
+        <input type="hidden" name="aufrufendeSeite" value="/vamJB/stellenangeboteFinden.html;jsessionid=gH9iJpjAa_zAHY8X5ifmdqu-Dp_jug126AXOFhINNU5G3PhccRAz!-821711405?execution=e1s1&amp;bencs=%2FU2WGXB7OvqnVw0BErl99YJNOS5Az%2FUKlbIW8rk8xffTEpUxq1l%2FsiBbxqZfPCF5&amp;bencs=Z9hoTPGcBucqUppIzbLiAofv5q2N293slld4tbKm16Cy7i%2FxVxnAFYj5aEPmSzBAUFhBiHPu6dzLDQDD6KmZew%3D%3D&amp;bencs=haxNIT059FQgKQTqdpU0lqxYfUcoAs%2FGRXdS7ELGyYqm0PxXxt6e%2FluU7NjFjikl&amp;bencs=cunFbYh1yWY6XMmhPX71mCgQyizM8tZVPD%2FE7CgwOFhGbXdICT1CFf68TTsWcwSB" />
         
 <input id="sprachewechseln" type="submit" class="button hell " value="&Auml;ndern" title="Sprache der JOBB&Ouml;RSE &auml;ndern"/>
     </form>
@@ -181,23 +181,23 @@
 
  	
 	<ul>
-		<li><a id="anwendungsrahmen.startseite" href="/vamJB/startseite.html;jsessionid=rkZdWOD1k8eXWreQ8hHUAW5KFv3qJGzRLj0C-xo9gu-eAL0yE-jK!1392594019" class="primaerElement" title="Zur Startseite der JOBB&Ouml;RSE">Startseite</a>
+		<li><a id="anwendungsrahmen.startseite" href="/vamJB/startseite.html;jsessionid=gH9iJpjAa_zAHY8X5ifmdqu-Dp_jug126AXOFhINNU5G3PhccRAz!-821711405" class="primaerElement" title="Zur Startseite der JOBB&Ouml;RSE">Startseite</a>
 </li>
-		<li><a id="anwendungsrahmen.kontakt" href="http://www.arbeitsagentur.de/kontakt-jobboerse;jsessionid=rkZdWOD1k8eXWreQ8hHUAW5KFv3qJGzRLj0C-xo9gu-eAL0yE-jK!1392594019" class="primaerElement" target="_blank" title="Zur Kontaktaufnahme mit arbeitsagentur.de. &Ouml;ffnet in neuem Fenster">Kontakt</a>
+		<li><a id="anwendungsrahmen.kontakt" href="http://www.arbeitsagentur.de/kontakt-jobboerse;jsessionid=gH9iJpjAa_zAHY8X5ifmdqu-Dp_jug126AXOFhINNU5G3PhccRAz!-821711405" class="primaerElement" target="_blank" title="Zur Kontaktaufnahme mit arbeitsagentur.de. &Ouml;ffnet in neuem Fenster">Kontakt</a>
 </li>
-		<li><a id="anwendungsrahmen.nutzungsbedingungen" href="http://www.arbeitsagentur.de/zentraler-Content/A01-Allgemein-Info/A012-SIE-Betrieb/Allgemein/Nutzungsbedingungen-Jobboerse.html;jsessionid=rkZdWOD1k8eXWreQ8hHUAW5KFv3qJGzRLj0C-xo9gu-eAL0yE-jK!1392594019" class="primaerElement" target="_blank" title="Zu den Nutzungsbedingungen der JOBB&Ouml;RSE. &Ouml;ffnet in neuem Fenster">Nutzungsbedingungen</a>
+		<li><a id="anwendungsrahmen.nutzungsbedingungen" href="http://www.arbeitsagentur.de/zentraler-Content/A01-Allgemein-Info/A012-SIE-Betrieb/Allgemein/Nutzungsbedingungen-Jobboerse.html;jsessionid=gH9iJpjAa_zAHY8X5ifmdqu-Dp_jug126AXOFhINNU5G3PhccRAz!-821711405" class="primaerElement" target="_blank" title="Zu den Nutzungsbedingungen der JOBB&Ouml;RSE. &Ouml;ffnet in neuem Fenster">Nutzungsbedingungen</a>
 </li>
-		<li><a id="anwendungsrahmen.datenschutz" href="http://www.arbeitsagentur.de/zentraler-Content/A01-Allgemein-Info/A012-SIE-Betrieb/Allgemein/Datenschutzerklaerung-Jobboerse.html;jsessionid=rkZdWOD1k8eXWreQ8hHUAW5KFv3qJGzRLj0C-xo9gu-eAL0yE-jK!1392594019" class="primaerElement" target="_blank" title="Zur Datenschutzerkl&auml;rung der JOBB&Ouml;RSE. &Ouml;ffnet in neuem Fenster">Datenschutz</a>
+		<li><a id="anwendungsrahmen.datenschutz" href="http://www.arbeitsagentur.de/zentraler-Content/A01-Allgemein-Info/A012-SIE-Betrieb/Allgemein/Datenschutzerklaerung-Jobboerse.html;jsessionid=gH9iJpjAa_zAHY8X5ifmdqu-Dp_jug126AXOFhINNU5G3PhccRAz!-821711405" class="primaerElement" target="_blank" title="Zur Datenschutzerkl&auml;rung der JOBB&Ouml;RSE. &Ouml;ffnet in neuem Fenster">Datenschutz</a>
 </li>
-		<li><a id="anwendungsrahmen.impressum" href="http://www.arbeitsagentur.de/Navigation/zentral/Servicebereich/Impressum/Impressum-Nav.html;jsessionid=rkZdWOD1k8eXWreQ8hHUAW5KFv3qJGzRLj0C-xo9gu-eAL0yE-jK!1392594019" class="primaerElement" target="_blank" title="Zur Information &uuml;ber den Herausgeber dieses Internetangebots. &Ouml;ffnet in neuem Fenster">Impressum</a>
+		<li><a id="anwendungsrahmen.impressum" href="http://www.arbeitsagentur.de/Navigation/zentral/Servicebereich/Impressum/Impressum-Nav.html;jsessionid=gH9iJpjAa_zAHY8X5ifmdqu-Dp_jug126AXOFhINNU5G3PhccRAz!-821711405" class="primaerElement" target="_blank" title="Zur Information &uuml;ber den Herausgeber dieses Internetangebots. &Ouml;ffnet in neuem Fenster">Impressum</a>
 </li>
-		<li><a id="anwendungsrahmen.sitemap" href="/vamJB/inhaltAnzeigen.html;jsessionid=rkZdWOD1k8eXWreQ8hHUAW5KFv3qJGzRLj0C-xo9gu-eAL0yE-jK!1392594019" class="primaerElement" title="Zur &Uuml;bersicht der Inhalte der JOBB&Ouml;RSE">Inhalt</a>
+		<li><a id="anwendungsrahmen.sitemap" href="/vamJB/inhaltAnzeigen.html;jsessionid=gH9iJpjAa_zAHY8X5ifmdqu-Dp_jug126AXOFhINNU5G3PhccRAz!-821711405" class="primaerElement" title="Zur &Uuml;bersicht der Inhalte der JOBB&Ouml;RSE">Inhalt</a>
 </li>
 		
 		
-          <li><a id="anwendungsrahmen.leichtesprache.as" href="http://www.arbeitsagentur.de/ls-jobboerse-arbeitnehmer;jsessionid=rkZdWOD1k8eXWreQ8hHUAW5KFv3qJGzRLj0C-xo9gu-eAL0yE-jK!1392594019" class="primaerElement" target="_blank" title="Zu den Erl&auml;uterungen der JOBB&Ouml;RSE in leichter Sprache. &Ouml;ffnet in neuem Fenster">Leichte Sprache</a>
+          <li><a id="anwendungsrahmen.leichtesprache.as" href="http://www.arbeitsagentur.de/ls-jobboerse-arbeitnehmer;jsessionid=gH9iJpjAa_zAHY8X5ifmdqu-Dp_jug126AXOFhINNU5G3PhccRAz!-821711405" class="primaerElement" target="_blank" title="Zu den Erl&auml;uterungen der JOBB&Ouml;RSE in leichter Sprache. &Ouml;ffnet in neuem Fenster">Leichte Sprache</a>
 </li>
-          <li><a id="anwendungsrahmen.gebaerdensprache.as" href="http://www.arbeitsagentur.de/dgs-jobboerse-arbeitnehmer;jsessionid=rkZdWOD1k8eXWreQ8hHUAW5KFv3qJGzRLj0C-xo9gu-eAL0yE-jK!1392594019" class="primaerElement" target="_blank" title="Zu den Erl&auml;uterungen der JOBB&Ouml;RSE in Geb&auml;rdensprache. &Ouml;ffnet in neuem Fenster">Gebärdensprache</a>
+          <li><a id="anwendungsrahmen.gebaerdensprache.as" href="http://www.arbeitsagentur.de/dgs-jobboerse-arbeitnehmer;jsessionid=gH9iJpjAa_zAHY8X5ifmdqu-Dp_jug126AXOFhINNU5G3PhccRAz!-821711405" class="primaerElement" target="_blank" title="Zu den Erl&auml;uterungen der JOBB&Ouml;RSE in Geb&auml;rdensprache. &Ouml;ffnet in neuem Fenster">Gebärdensprache</a>
 </li>
         
          
@@ -242,7 +242,7 @@
 <div id="containerNavigation" class="cf">
 	<div class="cf">
 		<div id="logoMeineJobboerse">
-			<a href="/vamJB/startseite.html;jsessionid=rkZdWOD1k8eXWreQ8hHUAW5KFv3qJGzRLj0C-xo9gu-eAL0yE-jK!1392594019" 
+			<a href="/vamJB/startseite.html;jsessionid=gH9iJpjAa_zAHY8X5ifmdqu-Dp_jug126AXOFhINNU5G3PhccRAz!-821711405" 
 			   title="Zur Startseite der JOBBÖRSE">
 				<img src="/vamJB/images/logo_jobboerse_medium.gif"
 				     alt="JOBBÖRSE"
@@ -252,10 +252,10 @@
 		<div id="informationBanner" class="cf">
 			
 			
-				<span class="hervorgehoben">2.775.187</span><span>Bewerberprofile</span>
-				<span class="hervorgehoben">1.280.326</span><span>Stellen</span>
-				<span class="hervorgehoben">306.816</span><span>Ausbildungsstellen</span>
-				<span class="anmerkung">Stand:20.02.2017</span>
+				<span class="hervorgehoben">2.777.430</span><span>Bewerberprofile</span>
+				<span class="hervorgehoben">1.288.852</span><span>Stellen</span>
+				<span class="hervorgehoben">307.549</span><span>Ausbildungsstellen</span>
+				<span class="anmerkung">Stand:21.02.2017</span>
 			
 		</div>
 	</div>            
@@ -265,12 +265,12 @@
 				<span class="element cf">
 					<span class="versteckt"><a id="anmeldung"></a>Zum Anmelden</span>
 					<span>Meine JOBBÖRSE</span>
-					<a id="anwendungsrahmen.navigationsbereich.anmeldung" href="/vamJB/anmeldung.html;jsessionid=rkZdWOD1k8eXWreQ8hHUAW5KFv3qJGzRLj0C-xo9gu-eAL0yE-jK!1392594019" class="button hell" title="In der JOBB&Ouml;RSE anmelden und zur Startseite">Anmelden</a>
+					<a id="anwendungsrahmen.navigationsbereich.anmeldung" href="/vamJB/anmeldung.html;jsessionid=gH9iJpjAa_zAHY8X5ifmdqu-Dp_jug126AXOFhINNU5G3PhccRAz!-821711405" class="button hell" title="In der JOBB&Ouml;RSE anmelden und zur Startseite">Anmelden</a>
 
 				</span>
 				<span class="element last cf">
 					<span>Noch nicht bei der JOBBÖRSE registriert?</span> 
-					<a id="anwendungsrahmen.navigationsbereich.registrierung" href="/vamJB/registrieren.html;jsessionid=rkZdWOD1k8eXWreQ8hHUAW5KFv3qJGzRLj0C-xo9gu-eAL0yE-jK!1392594019" class="button hell" title="Zur Registrierung in der JOBB&Ouml;RSE">Jetzt registrieren</a>
+					<a id="anwendungsrahmen.navigationsbereich.registrierung" href="/vamJB/registrieren.html;jsessionid=gH9iJpjAa_zAHY8X5ifmdqu-Dp_jug126AXOFhINNU5G3PhccRAz!-821711405" class="button hell" title="Zur Registrierung in der JOBB&Ouml;RSE">Jetzt registrieren</a>
 
 				</span>
 	        </div>
@@ -321,7 +321,7 @@
 			
 <div class="inhalt vierspaltig cf">
 <div class="fL">
-<a id="zuruckzuraufrufendenseite" href="/vamJB/stellenangeboteFinden.html;jsessionid=rkZdWOD1k8eXWreQ8hHUAW5KFv3qJGzRLj0C-xo9gu-eAL0yE-jK!1392594019?execution=e1s1&amp;_eventId_zurueckZurAufrufendenSeite" title="Zurück zur Startseite" class="pfeilNachLinks iconLinks">Zurück zur Startseite</a>
+<a id="zuruckzuraufrufendenseite" href="/vamJB/stellenangeboteFinden.html;jsessionid=gH9iJpjAa_zAHY8X5ifmdqu-Dp_jug126AXOFhINNU5G3PhccRAz!-821711405?execution=e1s1&amp;_eventId_zurueckZurAufrufendenSeite" title="Zurück zur Startseite" class="pfeilNachLinks iconLinks">Zurück zur Startseite</a>
 </div>
 </div>
 				<div class="seitenfunktionen">
@@ -332,7 +332,7 @@
 						<a href="/vamJB/hilfe/de/AS/unbetreut/1308.html" class="seitenhilfe" target="jobboerseSeitenhilfe" title="Zur Online-Hilfe zu dieser Seite. &Ouml;ffnet in neuem Fenster">Seitenhilfe</a>
 					
 									
-					<a id="anwendungsrahmen.seitenfunktionen.druckansicht" href="/vamJB/stellenangeboteFinden.html;jsessionid=rkZdWOD1k8eXWreQ8hHUAW5KFv3qJGzRLj0C-xo9gu-eAL0yE-jK!1392594019?execution=e1s1&amp;printable=true" class="druckansicht" target="_blank" title="Zur Druckansicht dieser Seite. &Ouml;ffnet in neuem Fenster">Druckansicht</a>
+					<a id="anwendungsrahmen.seitenfunktionen.druckansicht" href="/vamJB/stellenangeboteFinden.html;jsessionid=gH9iJpjAa_zAHY8X5ifmdqu-Dp_jug126AXOFhINNU5G3PhccRAz!-821711405?execution=e1s1&amp;printable=true" class="druckansicht" target="_blank" title="Zur Druckansicht dieser Seite. &Ouml;ffnet in neuem Fenster">Druckansicht</a>
 
 				</div>
 		</div>
@@ -347,7 +347,7 @@
 							
 				
 					 - 
-				Physiotherapeut/in (Physiotherapeut/in)
+				Physiotherapeut/in
 			
 				
 			</h3>
@@ -394,7 +394,7 @@
 	
 
 	<!--
-	<form id="detailsZumStellenangebotViewBean" action="/vamJB/stellenangeboteFinden.html;jsessionid=rkZdWOD1k8eXWreQ8hHUAW5KFv3qJGzRLj0C-xo9gu-eAL0yE-jK!1392594019" method="post">
+	<form id="detailsZumStellenangebotViewBean" action="/vamJB/stellenangeboteFinden.html;jsessionid=gH9iJpjAa_zAHY8X5ifmdqu-Dp_jug126AXOFhINNU5G3PhccRAz!-821711405" method="post">
 	-->
 		<div id="containerInhaltSpalte1">
 		<div class="inhalt cf">
@@ -405,6 +405,12 @@
 			
 			
 			<span id="hinweismeldungen"></span>
+<div class="hinweisBox ersteMeldung">
+<img class="icon" src="/vamJB/images/icons/icon_hinweis_blau.gif" alt=""/>
+<h4>Hinweis</h4>
+<p>Der Arbeitgeber hat den Arbeitgeber-Service (AG-S) der unten genannten Agentur für Arbeit beauftragt, eine individuelle Vorauswahl geeigneter Bewerber für ihn zu treffen. Deshalb können Sie den Arbeitgeber nicht selbst kontaktieren. Es ist der Wunsch des Arbeitgebers, dass der AG-S Ihre Daten bzw. Bewerbungsunterlagen prüft. Bei Eignung für diese Stelle erhalten Sie eine Information und damit auch die Kontaktdaten des Arbeitgebers. Bei Anfragen an die Agentur für Arbeit geben Sie bitte unbedingt die Referenznummer des Stellenangebotes an.</p>
+
+</div>
 			
 
 	
@@ -415,7 +421,7 @@
 <div class="klappbar offen">
 <h4 class="klappbareUeberschrift">Überblick über das Stellenangebot</h4>
 <input type="hidden" class="bereichEingeklappt" name="uberblickUberDasStellenangebot.eingeklappt" value="false"/>
-<a id="a879461780" name="a879461780" class="versteckt"></a>
+
 
                 
 <div class="cf">
@@ -424,7 +430,7 @@
 </span>
 
 <p>
-<span id="referenznummer">10000-1151244057-S</span>
+<span id="referenznummer">10000-1151202880-S</span>
 </p>
 </div>
                 
@@ -435,7 +441,7 @@
 </span>
 
 <p>
-	<b>Physiotherapeut/in (Physiotherapeut/in)</b>
+	<b>Physiotherapeut/in</b>
 	
 </p>
 </div>
@@ -481,7 +487,7 @@
 <div class="cf">
 <span class="labelText ohneFeldhilfe">Arbeitgeber</span>
 <div class="containerFormElement">
-<a id="vermittlung.stellenangeboteverwalten.detailszumstellenangebot.arbeitgeber" href="/vamJB/stellenangeboteFinden.html;jsessionid=rkZdWOD1k8eXWreQ8hHUAW5KFv3qJGzRLj0C-xo9gu-eAL0yE-jK!1392594019?execution=e1s1&amp;_eventId_arbeitgeber&amp;bencs=HiEt03%2BDZA9I0Fqu58fdY6OHjO7%2FX1%2BLuC9%2BeFww%2BwiABegqIOTMN2d9b03f674wPaAoe8WWHzYjuOhrN5f5cQ%3D%3D#a879461780" class="internerLink" title="Zu weiteren Details zum Arbeitgeber"><span>Katholisches Klinikum Essen GmbH</span></a>
+<span class="inaktiverText">Arbeitgeber anonymisiert</span>
 </div>
 </div>
 
@@ -492,7 +498,7 @@
 ><span class="labelText ohneFeldhilfe">
 </span>
 
-	<p>Branche: Krankenhäuser (ohne Hochschulkliniken, Vorsorge- und Rehabilitationskliniken), Betriebsgröße: zwischen 501 und 5000</p>
+	<p>Branche: Facharztpraxen, Betriebsgröße: zwischen 6 und 50</p>
 </div>
 
 
@@ -503,7 +509,7 @@
 </span>
 
 <p>
-<span id="stellenbeschreibung">Das Katholische Klinikum Essen &ndash; Akademisches Lehrkrankenhaus der Universit&auml;t Duisburg-Essen &ndash; verf&uuml;gt &uuml;ber 1.000 Betten in drei modern ausgestatteten Betriebsteilen und wurde in 2015 als eines der ersten Krankenh&auml;user in Deutschland nach der neuen DIN ISO 9001-2015 zertifiziert. Am Philippusstift (PH), Marienhospital Altenessen (MH) und am St. Vincenz Krankenhaus (VK) befinden sich insgesamt 14 Fachkliniken.<br /><br /><br />Wir suchen eine/einen<br /><br />Physiotherapeut/in<br /><br />Die Abteilung f&uuml;r Physiotherapie versorgt station&auml;r und nachstation&auml;r/ambulant die Patienten der verschiedenen Fachabteilungen. Ihr Einsatz wir zun&auml;chst am Betriebsteil Philippusstift oder Marienhospital erfolgen.<br /><br />Wir erwarten<br />&bull;	abgeschlossene Ausbildung und idealerweise den abgeschlossenen Kurs Manuelle Lymphdrainage Freude an der Arbeit im Team und an interdisziplin&auml;rem Austausch<br />&bull;	Selbst&auml;ndiges Arbeiten, Zuverl&auml;ssigkeit und Organisationsverm&ouml;gen<br />&bull;	Verantwortungsbewusstsein<br /><br />Wie bieten<br />&bull;	Mitarbeit in einem kooperativen, freundlichen Team<br />&bull;	 ein verantwortungsvolles Aufgabengebiet <br />&bull;	Verg&uuml;tung auf Basis der Arbeitsvertragsrichtlinien (AVR) des Deutschen Caritasverbandes mit den &uuml;blichen Sozialleistungen. <br /><br />Sie haben Interesse an dieser T&auml;tigkeit? Dann freuen wir uns auf Ihre Bewerbung mit den &uuml;blichen Unterlagen und Angaben an: Katholisches Klinikum Essen Personalabteilung Hospitalstra&szlig;e 24<br />45329 Essen www.kk-essen.de.</span>
+<span id="stellenbeschreibung">Im Auftrag einer Facharztpraxis wird eine Stelle als Physiotherapeut (m/w) angeboten. Die w&ouml;chentliche Arbeitszeit ist in Absprache mit dem Arbeitgeber zu regeln. Im Optimalfall stehen  Sie f&uuml;r  30 Wochenstunden zur Verf&uuml;gung. <br /><br />Ihr Profil:<br />&bull;	Abgeschlossene Ausbildung zum Physiotherapeuten (m/w)<br />&bull;	Die Weiterbildung im Bereich Manuelle Therapie  ist w&uuml;nschenswert <br />&bull;	Sichere Dokumentation<br />&bull;	Motiviertes und freundliches Auftreten<br />&bull;	Freude an Teamarbeit und gemeinsamer fachlicher Weiterentwicklung<br />&bull;	Kommunikative F&auml;higkeiten<br /><br /><br />Ihre Aufgaben:<br />&bull;	Physiotherapeutische Behandlungen<br />&bull;	Durchf&uuml;hrung von aktiven und passiven Therapien bei unseren neurologischen Reha- und Heilmittelpatienten<br /><br /><br />Freuen Sie sich auf einen Arbeitgeber, bei dem Menschlichkeit und Qualit&auml;t z&auml;hlen. Es erwarten Sie ein nettes Team und ein Arbeitsplatz in angenehmer Atmosph&auml;re.<br /><br />Bei Interesse schicken Sie Ihre Bewerbungsunterlagen bitte per Mail an: Kristina.Sommer@arbeitsagentur.de</span>
 </p>
 </div>
 				
@@ -532,34 +538,23 @@ Keine F&uuml;hrungsverantwortung
 			
 				
 				
+                    
+                    
+                        
+                            25524
+                            Itzehoe,
+                        
+                        
+                        
+                    
+					
+					
+					
+						Schleswig-Holstein,
+					
 				
 				
 				
-					
-					
-						Hospitalstr. 24,
-					
-					
-					
-					
-					
-					
-					
-						
-							45329
-							Essen, Ruhr,
-						
-						
-						
-					
-					
-					
-					
-					
-					
-					
-						Nordrhein-Westfalen,
-					
 				
 			
 			
@@ -578,7 +573,7 @@ Keine F&uuml;hrungsverantwortung
             In der nachfolgenden Kartenansicht sind die Ausübungsorte des Stellenangebots in einer interaktiven Deutschlandkarte eingezeichnet. Die gleichen Informationen finden Sie auch in textueller Form auf dieser Seite.
         </div>
     
-        <div class="karteSteaDetails karte" id="kartenansicht" data-value="{&quot;pointsOfInterest&quot;:[{&quot;content&quot;:&quot;            Physiotherapeut/in (Physiotherapeut/in)\r\n    &lt;br/&gt;\r\n\r\n&lt;b&gt;Arbeitgeber:&lt;\/b&gt; \r\nKatholisches Klinikum Essen GmbH\r\n&lt;br/&gt;\r\n\r\n&lt;b&gt;Adresse:&lt;\/b&gt;&lt;br/&gt;\r\n    Hospitalstr. 24 &lt;br/&gt;\r\n    45329\r\n    Essen, Ruhr\r\n    &lt;br/&gt;\r\n    Nordrhein-Westfalen &lt;br/&gt;\r\n&lt;a href=\&quot;/vamJB/stellenangeboteFinden.html;jsessionid=rkZdWOD1k8eXWreQ8hHUAW5KFv3qJGzRLj0C-xo9gu-eAL0yE-jK!1392594019?execution=e1s1&amp;_eventId=detailView&amp;bencs=puAwpCJHrrNBfo%2FE9zcDE8OubFHgsKwXrA9ugho%2FCZmR9leWMNEA3e1ihynpPewwbpOWK8oJahb2%2BqsTmi0tyQ%3D%3D\&quot; title=\&quot;Zur Detailseite dieses Stellenangebots\&quot;&gt;Detailseite aufrufen&lt;\/a&gt;&lt;br/&gt;\r\n&quot;,&quot;title&quot;:&quot;Stellenangebot&quot;,&quot;location&quot;:[51.4993771,7.0062102],&quot;type&quot;:&quot;BLOB&quot;}],&quot;legend&quot;:{&quot;BLOB&quot;:&quot;Stellenangebot&quot;}}">
+        <div class="karteSteaDetails karte" id="kartenansicht" data-value="{&quot;pointsOfInterest&quot;:[{&quot;content&quot;:&quot;            Physiotherapeut/in\r\n    &lt;br/&gt;\r\n\r\n&lt;b&gt;Arbeitgeber:&lt;\/b&gt; \r\nArbeitgeber anonymisiert\r\n&lt;br/&gt;\r\n\r\n&lt;b&gt;Adresse:&lt;\/b&gt;&lt;br/&gt;\r\n    25524\r\n    Itzehoe\r\n    &lt;br/&gt;\r\n    Schleswig-Holstein &lt;br/&gt;\r\n&lt;a href=\&quot;/vamJB/stellenangeboteFinden.html;jsessionid=gH9iJpjAa_zAHY8X5ifmdqu-Dp_jug126AXOFhINNU5G3PhccRAz!-821711405?execution=e1s1&amp;_eventId=detailView&amp;bencs=lmEyd3QY%2FadDSUSmX161zpHjVq%2FOYF5FRde8ezDR9HkJC5hqVSWCB6IxPQMkE6%2F7T6j%2F3qLgL4FSwXRjcXJD3Q%3D%3D\&quot; title=\&quot;Zur Detailseite dieses Stellenangebots\&quot;&gt;Detailseite aufrufen&lt;\/a&gt;&lt;br/&gt;\r\n&quot;,&quot;title&quot;:&quot;Stellenangebot&quot;,&quot;location&quot;:[53.9330364,9.5133538],&quot;type&quot;:&quot;BLOB&quot;}],&quot;legend&quot;:{&quot;BLOB&quot;:&quot;Stellenangebot&quot;}}">
 </div>
     </div>
 
@@ -597,7 +592,7 @@ Keine F&uuml;hrungsverantwortung
 
 	
 	
-					<a id="vermittlung.stellenangeboteverwalten.detailszumstellenangebot.kartezumstellenangebot" href="/vamJB/stellenangeboteFinden.html;jsessionid=rkZdWOD1k8eXWreQ8hHUAW5KFv3qJGzRLj0C-xo9gu-eAL0yE-jK!1392594019?execution=e1s1&amp;_eventId_karteZumStellenangebot&amp;encs=Gef7te%2FHymH%2BolmfiuYtU6kLI7qw1KO9lrhyc9dOpvD1oDN9urOifhQrHOHrlr170QkbcsrhiAwSIv%2Fo0EwtVQ%3D%3D&amp;encs=NnSO%2BY5Mo0DqhvtrDF%2FU%2FShXPd2p%2BQAr6zZlzPMge95%2BhAKcKfHqYgP379Jzap5hztDSYh4KVghLqwypNVHqsQ%3D%3D#a879461780" class="internerLink button hell" title="Aufruf der Kartenansicht zu diesem Stellenangebot"><span>Karte zum Stellenangebot</span></a>
+					<a id="vermittlung.stellenangeboteverwalten.detailszumstellenangebot.kartezumstellenangebot" href="/vamJB/stellenangeboteFinden.html;jsessionid=gH9iJpjAa_zAHY8X5ifmdqu-Dp_jug126AXOFhINNU5G3PhccRAz!-821711405?execution=e1s1&amp;_eventId_karteZumStellenangebot&amp;encs=Hddv4PBVIV9KbHf9YBUznZowhf%2B1%2BkVn9IHzJx%2FL8YG9UrPVpg1DlmmMxJ0TE%2FwCVtSlYBikiw6RhIedcTgKMg%3D%3D&amp;encs=i4aRkAxd%2FEU0npSbV71%2BvkLnVralLVGfgyVXYEZKrT92YVBkwuKwRhTvayXAUfjJZs9ABeiQa8I0qooOWTOVew%3D%3D" class="internerLink button hell" title="Aufruf der Kartenansicht zu diesem Stellenangebot"><span>Karte zum Stellenangebot</span></a>
 
 				
 	
@@ -610,7 +605,7 @@ Keine F&uuml;hrungsverantwortung
 
 	
 	
-					<a id="vermittlung.stellenangeboteverwalten.detailszumstellenangebot.karteausblenden" href="/vamJB/stellenangeboteFinden.html;jsessionid=rkZdWOD1k8eXWreQ8hHUAW5KFv3qJGzRLj0C-xo9gu-eAL0yE-jK!1392594019?execution=e1s1&amp;_eventId_karteAusblenden#a879461780" class="internerLink button hell" title="Ausblenden der Karte zu diesem Stellenangebot"><span>Karte ausblenden</span></a>
+					<a id="vermittlung.stellenangeboteverwalten.detailszumstellenangebot.karteausblenden" href="/vamJB/stellenangeboteFinden.html;jsessionid=gH9iJpjAa_zAHY8X5ifmdqu-Dp_jug126AXOFhINNU5G3PhccRAz!-821711405?execution=e1s1&amp;_eventId_karteAusblenden" class="internerLink button hell" title="Ausblenden der Karte zu diesem Stellenangebot"><span>Karte ausblenden</span></a>
 
 				
  		</span>
@@ -634,7 +629,7 @@ Keine F&uuml;hrungsverantwortung
 ><span class="labelText ohneFeldhilfe">Anzahl offener Stellen
 </span>
 
-<p>1 Stelle</p>
+<p>1 von ursprünglich 1 gemeldeten Stelle</p>
 </div>
 
 
@@ -646,12 +641,12 @@ Keine F&uuml;hrungsverantwortung
 				
 		
 <div class="cf">
-<span class="funktionsBox"><a id="a704398653" name="a704398653" class="versteckt"></a>
+<span class="funktionsBox">
 	
 
 	
 	
-					<a id="vermittlung.stellenangeboteverwalten.detailszumstellenangebot.vormerken" href="/vamJB/stellenangeboteFinden.html;jsessionid=rkZdWOD1k8eXWreQ8hHUAW5KFv3qJGzRLj0C-xo9gu-eAL0yE-jK!1392594019?execution=e1s1&amp;_eventId_vormerken#a704398653" class="internerLink button hell" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus"><span>Vormerken</span></a>
+					<a id="vermittlung.stellenangeboteverwalten.detailszumstellenangebot.vormerken" href="/vamJB/stellenangeboteFinden.html;jsessionid=gH9iJpjAa_zAHY8X5ifmdqu-Dp_jug126AXOFhINNU5G3PhccRAz!-821711405?execution=e1s1&amp;_eventId_vormerken" class="internerLink button hell" title="Speichert das Stellenangebot auf Ihrer Vormerkliste. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus"><span>Vormerken</span></a>
 
 				
 			
@@ -675,7 +670,7 @@ Keine F&uuml;hrungsverantwortung
 <div class="klappbar zuSchliessen">
 <h4 class="klappbareUeberschrift">Konditionen des Stellenangebots</h4>
 <input type="hidden" class="bereichEingeklappt" name="konditionenDesStellenangebots.eingeklappt" value="true"/>
-<a id="a439280104" name="a439280104" class="versteckt"></a>
+
 
 	
 
@@ -694,9 +689,14 @@ Keine F&uuml;hrungsverantwortung
 	<p class="fixeBreite">
 
 		
-		<span id="arbeitszeit_-2147483648">Vollzeit</span>
+		<span id="arbeitszeit_-2147483648">Teilzeit - flexibel</span>
 		
 		
+		
+		
+		<br />
+		
+		<span id="informationen_-2147483648">AZ liegt bei ca. 30 Wochenstunden</span>
 		
 	</p>
 
@@ -716,16 +716,18 @@ Keine F&uuml;hrungsverantwortung
 
 
 	       
+		      ab 8,84 &euro; je nach Qualifikation
+	       
 	
-
-	
-            Bei der Besetzung des Stellenangebotes findet ein Tarifvertrag Anwendung.
-    
 
             <br />
 
+	
+            Bei der Besetzung des Stellenangebotes findet kein Tarifvertrag Anwendung.
+    
 
-	       Tarifvertrag: AVR
+
+	       
 	   </p>
 	</div>
 
@@ -744,7 +746,7 @@ Keine F&uuml;hrungsverantwortung
 <div class="klappbar zuSchliessen">
 <h4 class="klappbareUeberschrift">Anforderungen an den Bewerber</h4>
 <input type="hidden" class="bereichEingeklappt" name="anforderungenAnDenBewerber.eingeklappt" value="true"/>
-<a id="a2112268862" name="a2112268862" class="versteckt"></a>
+
 
 	
 
@@ -788,15 +790,6 @@ Keine F&uuml;hrungsverantwortung
 
                 
 				
-<div class="cf">
-
-<span class="labelText ohneFeldhilfe">Berufserfahrung 
-</span>
-
-<p>
-Mit Berufserfahrung
-</p>
-</div>
 		
 	
 <div class="cf katalog">
@@ -1017,7 +1010,15 @@ Mit Berufserfahrung
 Erweiterte Kenntnisse<br/><img class="relevanz" width="44" height="19" src="/vamJB/images/icons/rating3_2sterne_weiss.gif" title="Erweiterte Kenntnisse" alt="Erweiterte Kenntnisse"/>
 			</dt>
 			<dd>
-				Lymphdrainage (Oedemtherapie, manuelle Lymphdrainage), Physiotherapie (Krankengymnastik)
+				Physiotherapie (Krankengymnastik)
+			</dd>
+		
+			<dt>
+				
+Grundkenntnisse<br/><img class="relevanz" width="44" height="19" src="/vamJB/images/icons/rating3_1sterne_weiss.gif" title="Grundkenntnisse" alt="Grundkenntnisse"/>
+			</dt>
+			<dd>
+				Bewegungstherapie, FBL (funktionelle Bewegungslehre), Manuelle Therapie, Neurologie (Pflege, Assistenz), Neurophysiologie, Patientenbetreuung, Rehabilitation
 			</dd>
 		
 		</dl>
@@ -1175,7 +1176,7 @@ Erweiterte Kenntnisse<br/><img class="relevanz" width="44" height="19" src="/vam
 </span>
 
 		<div class="containerInformationen">	
-			Organisationsf&auml;higkeit, Selbst&auml;ndiges Arbeiten, Teamf&auml;higkeit, Zuverl&auml;ssigkeit
+			Flexibilit&auml;t, Kommunikationsf&auml;higkeit, Kundenorientierung, Organisationsf&auml;higkeit, Selbst&auml;ndiges Arbeiten
 	 	</div>
 	</div>
 
@@ -1230,7 +1231,7 @@ Erweiterte Kenntnisse<br/><img class="relevanz" width="44" height="19" src="/vam
 <div class="klappbar offen">
 <h4 class="klappbareUeberschrift">Kontaktdaten</h4>
 <input type="hidden" class="bereichEingeklappt" name="kontaktdaten.eingeklappt" value="false"/>
-<a id="a1856562454" name="a1856562454" class="versteckt"></a>
+
 
 	
 
@@ -1243,16 +1244,31 @@ Erweiterte Kenntnisse<br/><img class="relevanz" width="44" height="19" src="/vam
 <p>
 	
 		
-		
-		
-	
-		
+			Kontakt über 
 			
-				<span id="ruckfragenundbewerbungenan_-2147483648">Katholisches Klinikum Essen GmbH</span> <br />
+				<span id="ruckfragenundbewerbungenan.organisation_-2147483648">Agentur f&uuml;r Arbeit Itzehoe</span> <br />
+				<br />
 			
+			
+			
+				
 
-			
-			
+
+
+
+
+
+
+Frau	                       
+
+
+
+
+
+<span id="nachname_-2147483648">Sommer</span>
+
+
+				<br />
 			
 			
 			
@@ -1270,7 +1286,7 @@ Erweiterte Kenntnisse<br/><img class="relevanz" width="44" height="19" src="/vam
 			
 			
 				                            
-				<span id="ruckfragenUndBewerbungenAn.wert['adresse']Strasse_-2147483648">Hospitalstr. 24</span>
+				<span id="ruckfragenUndBewerbungenAn.wert['adresse']Strasse_-2147483648">Fehrsstr. 19</span>
 			
 
 		
@@ -1282,13 +1298,13 @@ Erweiterte Kenntnisse<br/><img class="relevanz" width="44" height="19" src="/vam
 		
 			
 				 <br/> 
-				<span id="ruckfragenUndBewerbungenAn.wert['adresse']Plz_-2147483648">45329</span>
+				<span id="ruckfragenUndBewerbungenAn.wert['adresse']Plz_-2147483648">25524</span>
 			
 			
 
 		
 				
-				<span id="ruckfragenUndBewerbungenAn.wert['adresse']Ort_-2147483648">Essen, Ruhr</span>
+				<span id="ruckfragenUndBewerbungenAn.wert['adresse']Ort_-2147483648">Itzehoe</span>
 			
 		
 
@@ -1297,22 +1313,17 @@ Erweiterte Kenntnisse<br/><img class="relevanz" width="44" height="19" src="/vam
 
 		
 		    
-		    	 <br/> 
-		    	Nordrhein-Westfalen
-		    
 		
 		
-		
-			
-			
-				 <br/> 
-				Deutschland
-				
 		
 		
 
 
 			
+		
+		
+		
+	
 		
 	
 </p>
@@ -1329,9 +1340,40 @@ Erweiterte Kenntnisse<br/><img class="relevanz" width="44" height="19" src="/vam
 	
 
 
+<div class="cf"
+><span class="labelText ohneFeldhilfe">Telekommunikation
+</span>
+
+	<p>
+		
+			Telefonnummer:
+			+49&nbsp;(48&nbsp;21)&nbsp;9&nbsp;59&nbsp;53&nbsp;20
+			<br/>
+		
+		
+			Mobilnummer:
+			+49&nbsp;(1&nbsp;70)&nbsp;4&nbsp;51&nbsp;28&nbsp;86
+			<br/>
+		
+		
+			Faxnummer: 
+			+49&nbsp;(48&nbsp;21)&nbsp;9&nbsp;59&nbsp;53&nbsp;32
+			<br/>
+		
+		
+	</p>
+</div>
+
 
 
 				
+<div class="cf">
+<span class="labelText ohneFeldhilfe">E-Mail</span>
+<div class="containerFormElement">
+<a id="vermittlung.stellenangeboteverwalten.detailszumstellenangebot.email" href="mailto:Heide.141-Arbeitgeber-Service@arbeitsagentur.de" class="externerLink" target="_blank" title="Zur Erstellung einer E-Mail. Legt eine neue E-Mail in Ihrem Mailprogramm an, wenn Sie ein Mailprogramm installiert haben"><span>Heide.141-Arbeitgeber-Service@arbeitsagentur.de</span><img class="iconExtern" width="11" height="9" src="/vamJB/images/icons/icon_externerLink_grau.gif" title="Zur Erstellung einer E-Mail. Legt eine neue E-Mail in Ihrem Mailprogramm an, wenn Sie ein Mailprogramm installiert haben" alt="Externer Link"/></a>
+</div>
+</div>
+
 	
 
 
@@ -1339,18 +1381,11 @@ Erweiterte Kenntnisse<br/><img class="relevanz" width="44" height="19" src="/vam
 ><span class="labelText ohneFeldhilfe">Gewünschte Bewerbungsarten
 </span>
 
-	<p>Schriftlich</p>
+	<p>Per E-Mail</p>
 </div>
 
 
 				
-<div class="cf">
-<span class="labelText ohneFeldhilfe">Internetadresse</span>
-<div class="containerFormElement">
-<a id="vermittlung.stellenangeboteverwalten.detailszumstellenangebot.internetadresse" href="/vamJB/redirect_extern;jsessionid=rkZdWOD1k8eXWreQ8hHUAW5KFv3qJGzRLj0C-xo9gu-eAL0yE-jK!1392594019?url=iJvHzCDDSgvlSdKY0Ai%2Bix%2FHsLqcOERlU120XnG2eLfGlcmfc0uyXRy3LNHUPQ7p" class="externerLink" target="_blank" title="Zum Internetangebot des Arbeitgebers. &Ouml;ffnet sich in neuem Fenster"><span>Weitere Informationen zum Stellenangebot im Internet</span><img class="iconExtern" width="11" height="9" src="/vamJB/images/icons/icon_externerLink_weiss.gif" title="Zum Internetangebot des Arbeitgebers. &Ouml;ffnet sich in neuem Fenster" alt="Externer Link"/></a>
-</div>
-</div>
-
 				
 		
 <div class="cf">
@@ -1359,7 +1394,7 @@ Erweiterte Kenntnisse<br/><img class="relevanz" width="44" height="19" src="/vam
 </span>
 
 <p class="fixeBreite">
-Seit&nbsp;20.02.2017
+Seit&nbsp;17.02.2017
 </p>
 </div>
                 
@@ -1379,7 +1414,7 @@ Seit&nbsp;20.02.2017
 
 	
 	
-					<a id="vermittlung.stellenangeboteverwalten.detailszumstellenangebot.nachrichtanarbeitgeber" href="/vamJB/stellenangeboteFinden.html;jsessionid=rkZdWOD1k8eXWreQ8hHUAW5KFv3qJGzRLj0C-xo9gu-eAL0yE-jK!1392594019?execution=e1s1&amp;_eventId_nachrichtAnArbeitgeber&amp;encs=GY25aYUCEV9CqQns07Zn3PVhVomKCKR53MiuY19i%2BZxa6iNmhaHAkCSxtu3gCXbx54TKaBvoJ2o1P%2BpBE0ykSg%3D%3D&amp;encs=BxnJgFT2uPB2VhAb%2FWbeGn2cKDLv7GlfpSNLhDZ0TqXECxBDow0ignJ4cl2xHjkZ&amp;encs=nJSRyQfhdYWZD8KPRUtqZuFhdp%2FAvDwcAD93OZ0LheqI7xfi%2BCtfEyejOpaNTVaG&amp;encs=2IXk%2FDmdZq52PCwXxqrQxNCvHHB8yaYlmUvPvCqmWQwtL5dEFfns51mZYcudT9BG#a1856562454" class="internerLink button hell" title="Zur Erstellung einer Nachricht an den Arbeitgeber. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus"><span>Nachricht an Arbeitgeber</span></a>
+					<a id="vermittlung.stellenangeboteverwalten.detailszumstellenangebot.nachrichtanarbeitgeber" href="/vamJB/stellenangeboteFinden.html;jsessionid=gH9iJpjAa_zAHY8X5ifmdqu-Dp_jug126AXOFhINNU5G3PhccRAz!-821711405?execution=e1s1&amp;_eventId_nachrichtAnArbeitgeber&amp;encs=eWAsRE9ZluI4bka1RjyzMMZKrMCEWVucXUQEa5WIhCqcnJwyf3gHHAsTYmFtXps41dsaXaz%2BfalY50U4EESAYQ%3D%3D&amp;encs=d1eN02SD%2Bq6tclMlNAn0Jagc%2BbBWZW7tkpSWnPp7Z%2B7niMJC0lxINxsnTakCEZK4&amp;encs=x%2FnTbU5t3%2F57iRUEE4qg32AqJgM%2FvtkkfgkWbGkTmDJgTCxSXoGIrJ5WSOgpbq61rc%2BQqMDbhgl09juKm5qqFg%3D%3D&amp;encs=oNi8y1j7MxBH5agk58rOQH6ISgkKyvJRwczCRYyKh1u9BJHtOUFr72ZukMRXs8sP" class="internerLink button hell" title="Zur Erstellung einer Nachricht an den Arbeitgeber. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus"><span>Nachricht an Arbeitgeber</span></a>
 
 				
 			
@@ -1387,7 +1422,7 @@ Seit&nbsp;20.02.2017
 
 	
 	
-					<a id="vermittlung.stellenangeboteverwalten.detailszumstellenangebot.bewerben" href="/vamJB/stellenangeboteFinden.html;jsessionid=rkZdWOD1k8eXWreQ8hHUAW5KFv3qJGzRLj0C-xo9gu-eAL0yE-jK!1392594019?execution=e1s1&amp;_eventId_bewerben&amp;encs=8bmbq%2BQYQTT8f7RBM8xd0QuBVrf5Jc1DVxydrnSdmes%2B5IaCYCDITsZBTvKVY40sWzKwVfHiMTNf%2FyIS6oGx6w%3D%3D#a1856562454" class="internerLink button hell" title="Zur Erstellung einer Bewerbung. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus"><span>Bewerben</span></a>
+					<a id="vermittlung.stellenangeboteverwalten.detailszumstellenangebot.bewerben" href="/vamJB/stellenangeboteFinden.html;jsessionid=gH9iJpjAa_zAHY8X5ifmdqu-Dp_jug126AXOFhINNU5G3PhccRAz!-821711405?execution=e1s1&amp;_eventId_bewerben&amp;encs=WXKoHA5P0F1LVXQQ1TRBUAL8gVqsBX0jg1Oa10HVdQfzIzy%2BDFmbsGG3eR9LxnIZ6gLlRwkVQfLex7VYPVjmMw%3D%3D" class="internerLink button hell" title="Zur Erstellung einer Bewerbung. Diese Funktion setzt eine Anmeldung in der JOBB&Ouml;RSE voraus"><span>Bewerben</span></a>
 
 				
  		</span>
@@ -1437,15 +1472,7 @@ Seit&nbsp;20.02.2017
 
 	
 	
-	<div class="standardBox">
-<div class="standardBoxInhalt">
-
-		<img id="logoarbeitgeber" src="anzeigen;jsessionid=rkZdWOD1k8eXWreQ8hHUAW5KFv3qJGzRLj0C-xo9gu-eAL0yE-jK!1392594019?enc=wBvkl38JuWmjy8GjUkku9ezRYmmefIQSknCxlzL5D11EkPkIIHd%2FZK0RNaLKtWCz" height="61" width="150" alt="Firmenlogo des Arbeitgebers" title="Firmenlogo des Arbeitgebers"/>
-
-	<div class="cf"></div>
-</div>
-</div>
-
+	
 	
 		<div class="standardBox">
 <div class="standardBoxInhalt">
@@ -1461,7 +1488,7 @@ Seit&nbsp;20.02.2017
 
 
 	<dt>Letzte Änderung</dt>
-	<dd>20.02.2017 10:39</dd>
+	<dd>20.02.2017 09:59</dd>
 
 
 		
@@ -1478,32 +1505,27 @@ Seit&nbsp;20.02.2017
 		<ul class="linkListe">
 			
 				<li>
-				<a id="vermittlung.stellenangeboteverwalten.detailszumstellenangebot.rundumdenarbeitsplatz" href="/vamJB/redirect_extern;jsessionid=rkZdWOD1k8eXWreQ8hHUAW5KFv3qJGzRLj0C-xo9gu-eAL0yE-jK!1392594019?url=A%2FZRsze0%2BX6Jb%2BMX1qDDDLnE8XtP8zMX82EkoH9kdFrLK9L9WsZQPhipEoKyWIup6Hio9xgSNvrrmPMcx0a1n%2BDZzre9NCha8qcz%2BdpUk9LCF6o5l7upx%2F%2F5C9WVykiDLN4ZwAs%2Bgy8brTDDDGT4pJmIuLl09aj5%2FkPh7rwTrio%3D" class="externerLink" target="_blank" title="Zu Informationen und Tipps zum Arbeitsplatzwechsel. &Ouml;ffnet sich in neuem Fenster"><span>Rund um den Arbeitsplatz</span><img class="iconExtern" width="11" height="9" src="/vamJB/images/icons/icon_externerLink_weiss.gif" title="Zu Informationen und Tipps zum Arbeitsplatzwechsel. &Ouml;ffnet sich in neuem Fenster" alt="Externer Link"/></a>
+				<a id="vermittlung.stellenangeboteverwalten.detailszumstellenangebot.rundumdenarbeitsplatz" href="/vamJB/redirect_extern;jsessionid=gH9iJpjAa_zAHY8X5ifmdqu-Dp_jug126AXOFhINNU5G3PhccRAz!-821711405?url=K9SrmaMUAu4PIIoSowSrlr%2BK8U10jC0QLp1n57bs3dOh3MGAQFjEU0%2BLinE%2BWHxQWJRkcyFLyNPC3NTiA4z1TiXLDPc7lMiIzGNN5QM9mWvl6EFpz4gNvrkpgImsYA5TW%2BDJmzkHGZNW%2Fv2YOHD3O8toPsJ6uphAF7iErNpnOQ8%3D" class="externerLink" target="_blank" title="Zu Informationen und Tipps zum Arbeitsplatzwechsel. &Ouml;ffnet sich in neuem Fenster"><span>Rund um den Arbeitsplatz</span><img class="iconExtern" width="11" height="9" src="/vamJB/images/icons/icon_externerLink_weiss.gif" title="Zu Informationen und Tipps zum Arbeitsplatzwechsel. &Ouml;ffnet sich in neuem Fenster" alt="Externer Link"/></a>
 
 				</li>
 			
 			
 				<li>
-				<a id="vermittlung.stellenangeboteverwalten.detailszumstellenangebot.informationenfurauslandischebewerber" href="/vamJB/redirect_extern;jsessionid=rkZdWOD1k8eXWreQ8hHUAW5KFv3qJGzRLj0C-xo9gu-eAL0yE-jK!1392594019?url=%2F8%2F3bZkzB%2Bsd2s%2Fd3%2FZKzu248lXsuPkWlWbi6nAOZxk0872MylKJVPf8xrcZxbwQfQEcjNP54sB92a9hwrUTCw%3D%3D" class="externerLink" target="_blank" title="Zu Informationen und Tipps f&uuml;r ausl&auml;ndische Bewerber. &Ouml;ffnet sich in neuem Fenster"><span>Informationen f&uuml;r ausl&auml;ndische Bewerber</span><img class="iconExtern" width="11" height="9" src="/vamJB/images/icons/icon_externerLink_weiss.gif" title="Zu Informationen und Tipps f&uuml;r ausl&auml;ndische Bewerber. &Ouml;ffnet sich in neuem Fenster" alt="Externer Link"/></a>
-
-				</li>
-			
-			
-				<li>
-				<a id="vermittlung.stellenangeboteverwalten.detailszumstellenangebot.informationenzutarifvertragen" href="/vamJB/redirect_extern;jsessionid=rkZdWOD1k8eXWreQ8hHUAW5KFv3qJGzRLj0C-xo9gu-eAL0yE-jK!1392594019?url=UEBDVnomLIiBvBihG8q36yAkjyXkwlzi9RWYdb8L8wqoWiUviWEOrJLTwSHG3R4738cT3LBQd0VQN3VIT5scHrpNPtE1wN3ooKEgnqGTyuvMdpM%2BQhuxVbRiX913Q3tjUzYre%2BkLG9CL5EZ0GsUpddTD%2BW8ubpWppTJtslmz%2FiE%3D" class="externerLink" target="_blank" title="Zum Verzeichnis der f&uuml;r allgemeinverbindlich erkl&auml;rten Tarifvertr&auml;ge. &Ouml;ffnet sich in neuem Fenster"><span>Informationen zu Tarifvertr&auml;gen</span><img class="iconExtern" width="11" height="9" src="/vamJB/images/icons/icon_externerLink_weiss.gif" title="Zum Verzeichnis der f&uuml;r allgemeinverbindlich erkl&auml;rten Tarifvertr&auml;ge. &Ouml;ffnet sich in neuem Fenster" alt="Externer Link"/></a>
+				<a id="vermittlung.stellenangeboteverwalten.detailszumstellenangebot.informationenfurauslandischebewerber" href="/vamJB/redirect_extern;jsessionid=gH9iJpjAa_zAHY8X5ifmdqu-Dp_jug126AXOFhINNU5G3PhccRAz!-821711405?url=cX50Ej9vKvBkIl7lDbzzvJWxJ1RnsvudLRURmwEpRQnNya%2FaoKPUr2KbB2JnYAHddpcgEg7QJUluKjeu7zaeXw%3D%3D" class="externerLink" target="_blank" title="Zu Informationen und Tipps f&uuml;r ausl&auml;ndische Bewerber. &Ouml;ffnet sich in neuem Fenster"><span>Informationen f&uuml;r ausl&auml;ndische Bewerber</span><img class="iconExtern" width="11" height="9" src="/vamJB/images/icons/icon_externerLink_weiss.gif" title="Zu Informationen und Tipps f&uuml;r ausl&auml;ndische Bewerber. &Ouml;ffnet sich in neuem Fenster" alt="Externer Link"/></a>
 
 				</li>
 			
 			
 			
+			
 				<li>
-				<a id="vermittlung.stellenangeboteverwalten.detailszumstellenangebot.haftungsausschluss" href="/vamJB/redirect_extern;jsessionid=rkZdWOD1k8eXWreQ8hHUAW5KFv3qJGzRLj0C-xo9gu-eAL0yE-jK!1392594019?url=hvEdtF87QVohhx3Vwl6fZDNzTAut3m8imDdlN1XyAcCCMEg2NjI%2BbCjoM78hpETCVQGFYHPIrPWTxHxiA10WBJvBMXElhir3McZt3JexHf5t6iqBrdTk7K8WBNhGLNvkt52hRQhR6LiFWb5LlP4h2FJWWtSvuFZQ2NsAjh%2F5wYC2VHVuvVwOutP2EZxVsN35" class="externerLink" target="_blank" title="Zur Erl&auml;uterung des Haftungsausschlusses der Bundesagentur f&uuml;r Arbeit. &Ouml;ffnet sich in neuem Fenster"><span>Bitte beachten Sie den Haftungsausschluss</span><img class="iconExtern" width="11" height="9" src="/vamJB/images/icons/icon_externerLink_weiss.gif" title="Zur Erl&auml;uterung des Haftungsausschlusses der Bundesagentur f&uuml;r Arbeit. &Ouml;ffnet sich in neuem Fenster" alt="Externer Link"/></a>
+				<a id="vermittlung.stellenangeboteverwalten.detailszumstellenangebot.haftungsausschluss" href="/vamJB/redirect_extern;jsessionid=gH9iJpjAa_zAHY8X5ifmdqu-Dp_jug126AXOFhINNU5G3PhccRAz!-821711405?url=unGTCpKfnbSbuOdjQPoecQhzC7jNiX73h7qJli7LVMFHRI6fq3DOnu9D7e4P1YK30sRpuLfg8z8%2F%2BwBfprF%2FLM5YV6D2%2Bk0FemkkI31Y08%2B1AouLO5QzGXlus6Xh%2BCg%2FPgwRfW5AL8dExlOKTBp3m8TrZL4BV1Ffcj0EPMii2BkaZCUoNmeZoK14D6W1Uqv6" class="externerLink" target="_blank" title="Zur Erl&auml;uterung des Haftungsausschlusses der Bundesagentur f&uuml;r Arbeit. &Ouml;ffnet sich in neuem Fenster"><span>Bitte beachten Sie den Haftungsausschluss</span><img class="iconExtern" width="11" height="9" src="/vamJB/images/icons/icon_externerLink_weiss.gif" title="Zur Erl&auml;uterung des Haftungsausschlusses der Bundesagentur f&uuml;r Arbeit. &Ouml;ffnet sich in neuem Fenster" alt="Externer Link"/></a>
 
 				</li>
 			
 			
 				<li>
-				<a id="vermittlung.stellenangeboteverwalten.detailszumstellenangebot.verdiensteinkommenindemberuf" href="/vamJB/redirect_extern;jsessionid=rkZdWOD1k8eXWreQ8hHUAW5KFv3qJGzRLj0C-xo9gu-eAL0yE-jK!1392594019?url=BC0ahJnyxv%2Bxt7dah0iiAkNX8Ag%2FzRJ55m%2B%2FhWSh%2Fnhm6PZhqTuBresjFKsY4Xqfz5uARuSQPAaxkDqsSXiFR3Vp5tc%2FchrFKez2qcmHB5pCYehRb2xX%2BWHx3r%2BBFNGdYQZFx1mNRKeq2RILL6JuhhJg1iDJlVEsC5s8uSuZtAUzXfHI5ADwSNyhN7xkRSx7" class="externerLink" target="_blank" title="Zu der Seite &#39;Verdienst/Einkommen&#39; des Berufs in BERUFENET. &Ouml;ffnet sich in neuem Fenster"><span>Verdienst/Einkommen in dem Beruf</span><img class="iconExtern" width="11" height="9" src="/vamJB/images/icons/icon_externerLink_weiss.gif" title="Zu der Seite &#39;Verdienst/Einkommen&#39; des Berufs in BERUFENET. &Ouml;ffnet sich in neuem Fenster" alt="Externer Link"/></a>
+				<a id="vermittlung.stellenangeboteverwalten.detailszumstellenangebot.verdiensteinkommenindemberuf" href="/vamJB/redirect_extern;jsessionid=gH9iJpjAa_zAHY8X5ifmdqu-Dp_jug126AXOFhINNU5G3PhccRAz!-821711405?url=Rw%2B%2FBLmV257F9SviftOfvVbgf2pL7ytSmEyr3fYUONhDSK3p%2BEYAuVXM9veNn9bg16CLx69NVW6vZRC%2Fa3VaiCdyV3YO8Xv4hMBFakcy%2BE3OLkkfZUKve5QFydpFpZU8varfsJHf%2FXHhL%2BUWfRF7C8O3DT5Anl84Ty3HYiF7GirNW3KWgTnA%2B%2Fh4AgJA1BgP" class="externerLink" target="_blank" title="Zu der Seite &#39;Verdienst/Einkommen&#39; des Berufs in BERUFENET. &Ouml;ffnet sich in neuem Fenster"><span>Verdienst/Einkommen in dem Beruf</span><img class="iconExtern" width="11" height="9" src="/vamJB/images/icons/icon_externerLink_weiss.gif" title="Zu der Seite &#39;Verdienst/Einkommen&#39; des Berufs in BERUFENET. &Ouml;ffnet sich in neuem Fenster" alt="Externer Link"/></a>
 
 				</li>
 			

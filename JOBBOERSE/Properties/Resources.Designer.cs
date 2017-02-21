@@ -189,7 +189,7 @@ namespace JOBBOERSE.Properties {
         ///						
         ///							
         ///							
-        ///								&lt;title&gt;JOBBĂ–RSE - Stellenangebot - Physiotherapeut/in auf Festeinstellung (Physiotherapeut/in)&lt;/title&gt;
+        ///								&lt;title&gt;JOBBĂ–RSE - Stellenangebot - Physiotherapeut/in&lt;/title&gt;
         ///							
         ///						
         ///					
@@ -200,11 +200,21 @@ namespace JOBBOERSE.Properties {
         ///	
         ///
         ///&lt;meta name=&quot;description&quot;
-        ///	content=&quot;Bei Deutschlands grĂ¶Ăźtem Online-Jobportal finden Sie schnell und einfach die passen [rest of string was truncated]&quot;;.
+        ///	content=&quot;Bei Deutschlands grĂ¶Ăźtem Online-Jobportal finden Sie schnell und einfach die passende Stelle oder den passenden Bewerber. Ve [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string htmlOffer {
             get {
                 return ResourceManager.GetString("htmlOffer", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap loading {
+            get {
+                object obj = ResourceManager.GetObject("loading", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
         
@@ -281,11 +291,21 @@ namespace JOBBOERSE.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to (?&lt;=n=)(.*)(?=&amp;).
+        ///   Looks up a localized string similar to (?&lt;=execution=e)(.*)(?=s1).
         /// </summary>
         internal static string patternSideLink1 {
             get {
                 return ResourceManager.GetString("patternSideLink1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap refresh {
+            get {
+                object obj = ResourceManager.GetObject("refresh", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
         
