@@ -37,6 +37,9 @@ namespace JOBBOERSE
             sql.RefreshData(contactDataGridView);
         }
 
+        /// <summary>
+        /// Refresh data in form
+        /// </summary>
         private void tbtnRefresh_Click(object sender, EventArgs e)
         {
             sql.RefreshData(contactDataGridView);

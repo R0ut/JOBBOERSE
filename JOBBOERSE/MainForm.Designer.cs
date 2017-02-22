@@ -122,6 +122,7 @@
             this.Controls.Add(this.webDownload);
             this.Controls.Add(this.picInternetStatus);
             this.Controls.Add(this.btnGetContact);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.Name = "MainForm";
             this.Text = "JOBBOERSE";
