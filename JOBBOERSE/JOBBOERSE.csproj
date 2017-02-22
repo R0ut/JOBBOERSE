@@ -62,11 +62,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AddresBookDataSet.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>AddresBookDataSet.xsd</DependentUpon>
-    </Compile>
     <Compile Include="ConnectionCheck.cs" />
     <Compile Include="DataShow.cs">
       <SubType>Form</SubType>
@@ -106,17 +101,6 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <None Include="AddresBookDataSet.xsc">
-      <DependentUpon>AddresBookDataSet.xsd</DependentUpon>
-    </None>
-    <None Include="AddresBookDataSet.xsd">
-      <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>AddresBookDataSet.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="AddresBookDataSet.xss">
-      <DependentUpon>AddresBookDataSet.xsd</DependentUpon>
-    </None>
     <None Include="dbContact.xsc">
       <DependentUpon>dbContact.xsd</DependentUpon>
     </None>

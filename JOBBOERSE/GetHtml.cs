@@ -15,7 +15,9 @@ namespace JOBBOERSE
     {
         private string html;
 
-        //pobiera strone i zapisuje ja w resources\html.txt
+        /// <summary>
+        /// Method that download html code from WebBrowser. And save in res.html
+        /// </summary>
         public void GetMainSide(WebBrowser browser)
         {
             string projectPath = (Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName + "\\Resources"); // path to local resources
@@ -26,7 +28,12 @@ namespace JOBBOERSE
 
             writer.Flush(); writer.Close();
         }
-        public void GetSide(string side, string file) //side jest to string strony a res jest to resource txt tutaj przy  stronie main ma byc html, a przy ofercie pracy htmlOffer
+
+        /// <summary>
+        ///Method that download html code. Is used to different offers
+        /// </summary>
+        /// <param name="side">side is string to webside</param>
+        public void GetSide(string side) 
         {
             //get html code from side
             try
@@ -43,10 +50,10 @@ namespace JOBBOERSE
             {
                 MessageBox.Show(ea.ToString());
             }
-            //Zapis do pliku w katalogu Pogoda
+            //File save
             try
             {
-                string projectPath = (Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName) + "/Resources/" + file + ".txt"; // path of project
+                string projectPath = (Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName) + "/Resources/htmlOffer.txt"; // path of project
                 System.IO.File.WriteAllText(projectPath, html);
             }
             catch (Exception er)

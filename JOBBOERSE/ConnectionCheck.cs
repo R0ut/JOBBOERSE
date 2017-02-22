@@ -1,5 +1,4 @@
-﻿//class that check connection to internet
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.NetworkInformation;
@@ -10,9 +9,13 @@ using System.Windows.Forms;
 namespace JOBBOERSE
 {
 
-    //method return true when connection to internet is enable
+   
     class ConnectionCheck
     {
+        /// <summary>
+        /// Method return true when connection to internet is enable
+        /// </summary>
+        /// <returns>return true when connection to internet is enable</returns>
         public bool Internet()
         {
             try

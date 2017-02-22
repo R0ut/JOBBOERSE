@@ -23,8 +23,12 @@ namespace JOBBOERSE
         }
         public string Found { get; private set; }
 
-
-        // uruchomienie metody dla głównej a potem dla pojedynczych ofert. pattern 1 uruchamia pattern dla głównej(pobranie stronek) a 2 uruchamia pattern dla ofert(wyciaga adresy). i to sa nastepne linki od 0 do 9
+        /// <summary>
+        /// This method filter txt file, with difrent regular expresions
+        /// </summary>
+        /// <param name="file">this parametr say with txt file we will use.Enabled files: html,htmlOffer</param>
+        /// <param name="patternOption">patternOption define what expressions we will use. Option 1 main side it will download links to offers,Option 2 geting adress information from ofert,Option 3 get next webside code to dig for oferts (page2,page3...,page20)</param>
+        /// <param name="j">Parametr to next pages</param>
         public void LoadFile(string file, int patternOption, int j)
         {
 
@@ -90,17 +94,21 @@ namespace JOBBOERSE
             }
         }
 
-
-        private void match() // tutaj trzeba zapetlic do 10
+        /// <summary>
+        /// Method to match
+        /// </summary>
+        private void match() 
         {
 
             Match match = Regex.Match(text, patern);
-            if (match.Success) // znalezienie pierwsze
+            if (match.Success) // first match
             {
                 found += match.Value;
             }
         }
-
+        /// <summary>
+        /// Method replace letters in string to Germatny letters
+        /// </summary>
         private string Replace(string str)
         {
             string input = str.Trim();
@@ -118,8 +126,10 @@ namespace JOBBOERSE
             string output = tmp.Replace("&amp;", "&");
             return output;
         }
-
-        private string ReplacePattern(string str) // tutaj poprawic bo jest na tasme ;D
+        /// <summary>
+        /// Replace string method
+        /// </summary>
+        private string ReplacePattern(string str) 
         {
             string input = str.Trim();
             input.Replace("/", "");

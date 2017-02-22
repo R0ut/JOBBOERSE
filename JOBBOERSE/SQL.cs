@@ -19,6 +19,10 @@ namespace JOBBOERSE
             connectionString = ConfigurationManager.ConnectionStrings["JOBBOERSE.Properties.Settings.AddresBookConnectionString"].ConnectionString;
         }
 
+
+        /// <summary>
+        /// Method that add to database data
+        /// </summary>
         public void AddData(string CompanyName,string Name, string Surtname, string Street, string ZipCode, string City)
         {
             try
@@ -45,8 +49,11 @@ namespace JOBBOERSE
             }
         }
 
-        //separator w bazie dodaje linikje kiedy byla ona dodana dd/mm/yyyy
-       public void Separator()
+        
+        /// <summary>
+        /// Method that add in data base line with actual date(dd/mm/yyyy). It helps to filter database
+        /// </summary>
+        public void Separator()
         {
             try
             {
@@ -72,7 +79,12 @@ namespace JOBBOERSE
             }
         }
 
-        public bool CompareWithDataBase(string toCompare) //zwraca true gdy jest juz wartosc w bazie danych a false gdy nie ma
+        /// <summary>
+        /// Method that compare database data with data from our program
+        /// </summary>
+        /// <param name="toCompare">String to compare with database</param>
+        /// <returns>return true when compared string are in database else false</returns>
+        public bool CompareWithDataBase(string toCompare) 
         {
             try
             {
@@ -96,6 +108,9 @@ namespace JOBBOERSE
            
         }
 
+        /// <summary>
+        /// Method to refresh data from database
+        /// </summary>
         public void RefreshData(DataGridView dataGridView)
         {
             SqlConnection con = new SqlConnection(@"Data Source = (LocalDB)\MSSQLLocalDB; AttachDbFilename = " + Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName + @"\AddresBook.mdf; Integrated Security = True");
