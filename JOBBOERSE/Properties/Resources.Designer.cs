@@ -189,7 +189,7 @@ namespace JOBBOERSE.Properties {
         ///						
         ///							
         ///							
-        ///								&lt;title&gt;JOBBĂ–RSE - Stellenangebot - Physiotherapeut/in&lt;/title&gt;
+        ///								&lt;title&gt;JOBBĂ–RSE - Stellenangebot - Physiotherapeut/In-Manualtherapeut/In (Physiotherapeut/in)&lt;/title&gt;
         ///							
         ///						
         ///					
@@ -200,11 +200,21 @@ namespace JOBBOERSE.Properties {
         ///	
         ///
         ///&lt;meta name=&quot;description&quot;
-        ///	content=&quot;Bei Deutschlands grĂ¶Ăźtem Online-Jobportal finden Sie schnell und einfach die passende Stelle oder den passenden Bewerber. Ve [rest of string was truncated]&quot;;.
+        ///	content=&quot;Bei Deutschlands grĂ¶Ăźtem Online-Jobportal finden Sie schnell und einfach die passend [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string htmlOffer {
             get {
                 return ResourceManager.GetString("htmlOffer", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
+        /// </summary>
+        internal static System.Drawing.Icon Icon {
+            get {
+                object obj = ResourceManager.GetObject("Icon", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
             }
         }
         
@@ -287,6 +297,24 @@ namespace JOBBOERSE.Properties {
         internal static string pattern7 {
             get {
                 return ResourceManager.GetString("pattern7", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to (?&lt;= href=&quot;mailto:)(.*)(?=&quot; class).
+        /// </summary>
+        internal static string pattern8 {
+            get {
+                return ResourceManager.GetString("pattern8", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to (?&lt;=                        )(.*)(?=).
+        /// </summary>
+        internal static string pattern9 {
+            get {
+                return ResourceManager.GetString("pattern9", resourceCulture);
             }
         }
         
