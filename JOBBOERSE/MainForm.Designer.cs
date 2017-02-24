@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
             this.btnGetContact = new System.Windows.Forms.Button();
             this.picInternetStatus = new System.Windows.Forms.PictureBox();
             this.webDownload = new System.Windows.Forms.WebBrowser();
@@ -35,6 +36,7 @@
             this.btnShowData = new System.Windows.Forms.Button();
             this.progBarDwonload = new System.Windows.Forms.ProgressBar();
             this.picLoading = new System.Windows.Forms.PictureBox();
+            this.btnExit = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.picInternetStatus)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picLoading)).BeginInit();
             this.SuspendLayout();
@@ -110,11 +112,22 @@
             this.picLoading.TabStop = false;
             this.picLoading.Visible = false;
             // 
+            // btnExit
+            // 
+            this.btnExit.Location = new System.Drawing.Point(15, 124);
+            this.btnExit.Name = "btnExit";
+            this.btnExit.Size = new System.Drawing.Size(75, 41);
+            this.btnExit.TabIndex = 9;
+            this.btnExit.Text = "Exit";
+            this.btnExit.UseVisualStyleBackColor = true;
+            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(637, 431);
+            this.Controls.Add(this.btnExit);
             this.Controls.Add(this.picLoading);
             this.Controls.Add(this.progBarDwonload);
             this.Controls.Add(this.btnShowData);
@@ -123,6 +136,7 @@
             this.Controls.Add(this.picInternetStatus);
             this.Controls.Add(this.btnGetContact);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "MainForm";
             this.Text = "JOBBOERSE";
@@ -142,6 +156,7 @@
         private System.Windows.Forms.Button btnShowData;
         private System.Windows.Forms.ProgressBar progBarDwonload;
         private System.Windows.Forms.PictureBox picLoading;
+        private System.Windows.Forms.Button btnExit;
     }
 }
 

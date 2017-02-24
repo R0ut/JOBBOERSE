@@ -12,8 +12,8 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 /// <summary>
-/// moze zmienic ten loading na jakies foto tylko z napisem loading i sam progres bar. Usunąc stara baza z solution.
-/// Poczyscic i zrobic .exe moze podziała. mozna sprawdzic na stacjonarce. Zeby nie mozna bylo rozszezac okan jak w prezentaci danych
+/// na forum jest infor co do sciaganiecia. Moze zmienic przyciski na obrazki napisac kod zeby z pliku txt do bazy danych dodał dane 
+/// dodac do kazdego ogloszenia date kiedy pobrana, jeszcze nie wiadomo przeczytac na fb
 /// </summary>
 namespace JOBBOERSE
 {
@@ -23,9 +23,16 @@ namespace JOBBOERSE
         GetHtml side = new GetHtml();
         RegEx expresion;
         SQL sql = new SQL();
-        
-        
-        
+        string[] imie = new string[4603];
+        string[] nazwisko = new string[4603];
+        string[] nazwafirmy = new string[4603];
+        string[] plec = new string[4603];
+        string[] ulica = new string[4603];
+        string[] email = new string[4603];
+        string[] kod = new string[4603];
+        string[] miasto = new string[4603];
+
+
         private string sidelink;
 
         /// <summary>
@@ -49,7 +56,7 @@ namespace JOBBOERSE
         /// </summary>
         private void btnShowData_Click(object sender, EventArgs e)
         {
-            var dataShow = new DataShow();
+            var dataShow = new DataPresent();
             dataShow.Show();
         }
 
@@ -108,6 +115,18 @@ namespace JOBBOERSE
         {
             if (webDownload.Url != (new System.Uri("http://jobboerse.arbeitsagentur.de/vamJB/startseite.html?kgr=as&aa=1&m=1&vorschlagsfunktionaktiv=true", System.UriKind.Absolute)))
                 btnGetContact.Enabled = true;
+            else btnGetContact.Enabled = false;
         }
+        
+        
+        /// <summary>
+        /// Button Exit event to close app
+        /// </summary>
+        private void btnExit_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+       
     }
 }

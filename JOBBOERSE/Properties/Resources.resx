@@ -157,6 +157,12 @@
   <data name="pattern7" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pattern7.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
   </data>
+  <data name="pattern8" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pattern8.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
+  </data>
+  <data name="pattern9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pattern9.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
+  </data>
   <data name="patternSideLink1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\patternSideLink1.txt;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;windows-1250</value>
   </data>

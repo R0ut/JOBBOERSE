@@ -12,7 +12,8 @@
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
-    <PublishUrl>publish\</PublishUrl>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>E:\Program\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
@@ -22,10 +23,10 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationRevision>1</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
-    <IsWebBootstrapper>false</IsWebBootstrapper>
     <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -37,6 +38,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <DocumentationFile>bin\Debug\JOBBOERSE.XML</DocumentationFile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -46,6 +48,21 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>DC03F7EA860A472E286F172301120308411F445D</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>JOBBOERSE_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icoon.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -63,16 +80,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ConnectionCheck.cs" />
-    <Compile Include="DataShow.cs">
+    <Compile Include="DataPresent.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="DataShow.Designer.cs">
-      <DependentUpon>DataShow.cs</DependentUpon>
+    <Compile Include="DataPresent.Designer.cs">
+      <DependentUpon>DataPresent.cs</DependentUpon>
     </Compile>
-    <Compile Include="dbContact.Designer.cs">
+    <Compile Include="dbSetContact.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>dbContact.xsd</DependentUpon>
+      <DependentUpon>dbSetContact.xsd</DependentUpon>
     </Compile>
     <Compile Include="GetHtml.cs" />
     <Compile Include="MainForm.cs">
@@ -85,8 +102,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RegEx.cs" />
     <Compile Include="SQL.cs" />
-    <EmbeddedResource Include="DataShow.resx">
-      <DependentUpon>DataShow.cs</DependentUpon>
+    <EmbeddedResource Include="DataPresent.resx">
+      <DependentUpon>DataPresent.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
@@ -101,17 +118,18 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <None Include="dbContact.xsc">
-      <DependentUpon>dbContact.xsd</DependentUpon>
+    <None Include="dbSetContact.xsc">
+      <DependentUpon>dbSetContact.xsd</DependentUpon>
     </None>
-    <None Include="dbContact.xsd">
+    <None Include="dbSetContact.xsd">
       <Generator>MSDataSetGenerator</Generator>
-      <LastGenOutput>dbContact.Designer.cs</LastGenOutput>
+      <LastGenOutput>dbSetContact.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </None>
-    <None Include="dbContact.xss">
-      <DependentUpon>dbContact.xsd</DependentUpon>
+    <None Include="dbSetContact.xss">
+      <DependentUpon>dbSetContact.xsd</DependentUpon>
     </None>
+    <None Include="JOBBOERSE_TemporaryKey.pfx" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -172,6 +190,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <DependentUpon>AddresBook.mdf</DependentUpon>
     </Content>
+    <Content Include="icoon.ico" />
+    <None Include="Resources\pattern9.txt" />
+    <None Include="Resources\pattern8.txt" />
     <None Include="Resources\loading.gif" />
     <None Include="Resources\refresh.png" />
     <None Include="Resources\patternSideLink1.txt" />

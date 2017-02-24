@@ -13,7 +13,7 @@ namespace JOBBOERSE
     {
         SQL sql;
         private string text, patern, found, sideLink;
-        private string compName, name, surtName, street, zipCode, city;
+        private string compName, name, surtName, street, zipCode, city, sex, email;
 
 
         public RegEx(string sideLink)
@@ -51,7 +51,7 @@ namespace JOBBOERSE
                 }
                 else if (patternOption == 2)
                 {
-                    for (int i = 0; i < 6; i++)
+                    for (int i = 0; i < 8; i++)
                     {
                         if (i == 0) patern = Properties.Resources.pattern2;
                         else if (i == 1) patern = Properties.Resources.pattern3;
@@ -59,6 +59,9 @@ namespace JOBBOERSE
                         else if (i == 3) patern = Properties.Resources.pattern5;
                         else if (i == 4) patern = Properties.Resources.pattern6;
                         else if (i == 5) patern = Properties.Resources.pattern7;
+                        else if (i == 6) patern = Properties.Resources.pattern9; 
+                        else if (i == 7) patern = Properties.Resources.pattern8; 
+
 
                         match();
                         Found = Replace(found);
@@ -68,12 +71,23 @@ namespace JOBBOERSE
                         else if (i == 3) street = Found;
                         else if (i == 4) zipCode = Found;
                         else if (i == 5) city = Found;
+                        else if (i == 6)
+                        {
+                            sex = Found;
+                            if (sex.Length > 4)
+                            {
+                                matchForSex();
+                                Found = Replace(found);
+                                sex = Found;
+                            }
+                        }
+                        else if (i == 7) email = Found;
 
                         found = "";
                     }
 
                     
-                    if(sql.CompareWithDataBase(compName) != true) sql.AddData(compName, name, surtName, street, zipCode, city);
+                    if(sql.CompareWithDataBase(compName,surtName,city) != true) sql.AddData(compName, sex, name, surtName, street, zipCode, city, email);
 
 
 
@@ -104,6 +118,19 @@ namespace JOBBOERSE
             if (match.Success) // first match
             {
                 found += match.Value;
+            }
+        }
+        private void matchForSex()
+        {
+            Match match = Regex.Match(text, patern);
+            if (match.Success) // first match
+            {
+                //found += match.Value;
+            }
+            match = match.NextMatch();
+            if (match.Success)
+            {
+                found = match.Value;
             }
         }
         /// <summary>

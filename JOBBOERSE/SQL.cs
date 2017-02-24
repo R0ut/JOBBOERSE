@@ -23,21 +23,23 @@ namespace JOBBOERSE
         /// <summary>
         /// Method that add to database data
         /// </summary>
-        public void AddData(string CompanyName,string Name, string Surtname, string Street, string ZipCode, string City)
+        public void AddData(string CompanyName, string Sex,string Name, string Surtname, string Street, string ZipCode, string City, string Email)
         {
             try
             {
                 using (SqlConnection connection = new SqlConnection(@"Data Source = (LocalDB)\MSSQLLocalDB; AttachDbFilename = " + Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName + @"\AddresBook.mdf; Integrated Security = True"))
                 {
-                    SqlCommand cmd = new SqlCommand("INSERT INTO Contact (CompanyName, Name, Surname, Street, ZipCode, City ) VALUES (@CompanyName, @Name, @Surname, @Street, @ZipCode, @City)");
+                    SqlCommand cmd = new SqlCommand("INSERT INTO Contact (CompanyName, Sex, Name, Surname, Street, ZipCode, City, Email ) VALUES (@CompanyName, @Sex, @Name, @Surname, @Street, @ZipCode, @City, @Email)");
                     cmd.CommandType = CommandType.Text;
                     cmd.Connection = connection;
                     cmd.Parameters.AddWithValue("@CompanyName", CompanyName);
+                    cmd.Parameters.AddWithValue("@Sex", Sex);
                     cmd.Parameters.AddWithValue("@Name", Name);
                     cmd.Parameters.AddWithValue("@Surname", Surtname);
                     cmd.Parameters.AddWithValue("@Street", Street);
                     cmd.Parameters.AddWithValue("@ZipCode", ZipCode);
                     cmd.Parameters.AddWithValue("@City", City);
+                        cmd.Parameters.AddWithValue("@Email", Email);
                     connection.Open();
                     cmd.ExecuteNonQuery();
                 }
@@ -59,15 +61,17 @@ namespace JOBBOERSE
             {
                 using (SqlConnection connection = new SqlConnection(@"Data Source = (LocalDB)\MSSQLLocalDB; AttachDbFilename = " + Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName + @"\AddresBook.mdf; Integrated Security = True"))
                 {
-                    SqlCommand cmd = new SqlCommand("INSERT INTO Contact (CompanyName, Name, Surname, Street, ZipCode, City ) VALUES (@CompanyName, @Name, @Surname, @Street, @ZipCode, @City)");
+                    SqlCommand cmd = new SqlCommand("INSERT INTO Contact (CompanyName, Sex, Name, Surname, Street, ZipCode, City, Email ) VALUES (@CompanyName, @Sex, @Name, @Surname, @Street, @ZipCode, @City, @Email)");
                     cmd.CommandType = CommandType.Text;
                     cmd.Connection = connection;
                     cmd.Parameters.AddWithValue("@CompanyName", "----------");
+                    cmd.Parameters.AddWithValue("@Sex", "----------");
                     cmd.Parameters.AddWithValue("@Name", "----------");
                     cmd.Parameters.AddWithValue("@Surname", "Last update date:");
                     cmd.Parameters.AddWithValue("@Street", DateTime.Now.ToString("MM/dd/yyyy"));
                     cmd.Parameters.AddWithValue("@ZipCode", "----------");
                     cmd.Parameters.AddWithValue("@City", "----------");
+                    cmd.Parameters.AddWithValue("@Email", "----------");
                     connection.Open();
                     cmd.ExecuteNonQuery();
                 }
@@ -82,18 +86,22 @@ namespace JOBBOERSE
         /// <summary>
         /// Method that compare database data with data from our program
         /// </summary>
-        /// <param name="toCompare">String to compare with database</param>
+        /// <param name="Company">String to compare with database (CompanyName)</param>
+        /// <param name="Surname">String to compare with database (Surname)</param>
+        /// <param name="City">String to compare with database (City)</param>
         /// <returns>return true when compared string are in database else false</returns>
-        public bool CompareWithDataBase(string toCompare) 
+        public bool CompareWithDataBase(string Company, string Surname, string City) 
         {
             try
             {
                 using (SqlConnection connection = new SqlConnection(@"Data Source = (LocalDB)\MSSQLLocalDB; AttachDbFilename = " + Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName + @"\AddresBook.mdf; Integrated Security = True"))
                 {
-                    SqlCommand cmd = new SqlCommand("SELECT * FROM Contact WHERE CompanyName = @CompanyNametoCompare");
+                    SqlCommand cmd = new SqlCommand("SELECT * FROM Contact WHERE CompanyName = @CompanyNametoCompare AND Surname = @Surname AND City = @City");
                     cmd.CommandType = CommandType.Text;
                     cmd.Connection = connection;
-                    cmd.Parameters.AddWithValue("@CompanyNametoCompare", toCompare);
+                    cmd.Parameters.AddWithValue("@CompanyNametoCompare", Company);
+                    cmd.Parameters.AddWithValue("@Surname", Surname);
+                    cmd.Parameters.AddWithValue("@City", City);
                     connection.Open();
                     var search = cmd.ExecuteReader();
                     return search.Read();
