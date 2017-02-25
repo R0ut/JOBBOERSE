@@ -27,7 +27,7 @@ namespace JOBBOERSE
         {
             try
             {
-                using (SqlConnection connection = new SqlConnection(@"Data Source = (LocalDB)\MSSQLLocalDB; AttachDbFilename = " + Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName + @"\AddresBook.mdf; Integrated Security = True"))
+                using (SqlConnection connection = new SqlConnection(@"Data Source = (LocalDB)\MSSQLLocalDB;AttachDbFilename=""C:\JOBBOERSE\AddresBook.MDF""; Integrated Security = True"))
                 {
                     SqlCommand cmd = new SqlCommand("INSERT INTO Contact (CompanyName, Sex, Name, Surname, Street, ZipCode, City, Email ) VALUES (@CompanyName, @Sex, @Name, @Surname, @Street, @ZipCode, @City, @Email)");
                     cmd.CommandType = CommandType.Text;
@@ -59,7 +59,7 @@ namespace JOBBOERSE
         {
             try
             {
-                using (SqlConnection connection = new SqlConnection(@"Data Source = (LocalDB)\MSSQLLocalDB; AttachDbFilename = " + Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName + @"\AddresBook.mdf; Integrated Security = True"))
+                using (SqlConnection connection = new SqlConnection(@"Data Source = (LocalDB)\MSSQLLocalDB;AttachDbFilename=""C:\JOBBOERSE\AddresBook.MDF""; Integrated Security = True"))
                 {
                     SqlCommand cmd = new SqlCommand("INSERT INTO Contact (CompanyName, Sex, Name, Surname, Street, ZipCode, City, Email ) VALUES (@CompanyName, @Sex, @Name, @Surname, @Street, @ZipCode, @City, @Email)");
                     cmd.CommandType = CommandType.Text;
@@ -94,7 +94,7 @@ namespace JOBBOERSE
         {
             try
             {
-                using (SqlConnection connection = new SqlConnection(@"Data Source = (LocalDB)\MSSQLLocalDB; AttachDbFilename = " + Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName + @"\AddresBook.mdf; Integrated Security = True"))
+                using (SqlConnection connection = new SqlConnection(@"Data Source = (LocalDB)\MSSQLLocalDB;AttachDbFilename=""C:\JOBBOERSE\AddresBook.MDF""; Integrated Security = True"))
                 {
                     SqlCommand cmd = new SqlCommand("SELECT * FROM Contact WHERE CompanyName = @CompanyNametoCompare AND Surname = @Surname AND City = @City");
                     cmd.CommandType = CommandType.Text;
@@ -121,7 +121,7 @@ namespace JOBBOERSE
         /// </summary>
         public void RefreshData(DataGridView dataGridView)
         {
-            SqlConnection con = new SqlConnection(@"Data Source = (LocalDB)\MSSQLLocalDB; AttachDbFilename = " + Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName + @"\AddresBook.mdf; Integrated Security = True");
+            SqlConnection con = new SqlConnection(@"Data Source = (LocalDB)\MSSQLLocalDB;AttachDbFilename=""C:\JOBBOERSE\AddresBook.MDF""; Integrated Security = True");
             string query = "select * from Contact";
             SqlCommand cmd = new SqlCommand(query, con);
             SqlDataAdapter da = new SqlDataAdapter(cmd);
